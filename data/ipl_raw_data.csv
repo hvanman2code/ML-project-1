@@ -1,0 +1,1501 @@
+match_date,batting_team,bowling_team,venue,runs,wickets,overs,striker_runs,non_striker_runs,last_five_overs_runs,final_score
+2023-05-10,Chennai Super Kings,Mumbai Indians,M. Chinnaswamy Stadium,83,1,8.6,31,41,48,181
+2023-04-01,Gujarat Titans,Kolkata Knight Riders,Sawai Mansingh Stadium,84,3,11.1,37,21,43,174
+2023-04-21,Chennai Super Kings,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,53,2,6.4,25,19,53,202
+2023-05-09,Punjab Kings,Kolkata Knight Riders,M. A. Chidambaram Stadium,57,0,5.7,32,16,49,207
+2023-04-22,Kolkata Knight Riders,Delhi Capitals,M. A. Chidambaram Stadium,103,1,13.8,39,42,47,165
+2023-05-19,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,97,6,16.7,57,29,28,120
+2023-04-29,Royal Challengers Bangalore,Delhi Capitals,Eden Gardens,63,4,8.6,28,21,36,146
+2023-05-18,Mumbai Indians,Chennai Super Kings,Eden Gardens,86,6,14.1,38,32,28,127
+2023-04-07,Gujarat Titans,Delhi Capitals,Narendra Modi Stadium,37,3,6.6,19,12,36,125
+2023-05-10,Delhi Capitals,Gujarat Titans,Dr. DY Patil Sports Academy,63,2,7.9,30,23,32,158
+2023-05-26,Delhi Capitals,Kolkata Knight Riders,Wankhede Stadium,62,4,8.5,20,28,43,158
+2023-05-05,Royal Challengers Bangalore,Delhi Capitals,Sawai Mansingh Stadium,133,6,17.7,68,44,43,156
+2023-05-27,Gujarat Titans,Sunrisers Hyderabad,M. A. Chidambaram Stadium,66,0,8.6,22,26,32,166
+2023-05-25,Punjab Kings,Chennai Super Kings,Sawai Mansingh Stadium,53,3,8.5,26,20,32,143
+2023-04-06,Rajasthan Royals,Punjab Kings,Rajiv Gandhi International Cricket Stadium,60,5,11.0,20,28,32,116
+2023-05-04,Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,54,3,7.7,28,14,37,164
+2023-04-05,Kolkata Knight Riders,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,116,1,12.0,34,50,48,218
+2023-05-14,Gujarat Titans,Sunrisers Hyderabad,Eden Gardens,70,1,7.8,35,21,37,196
+2023-04-10,Mumbai Indians,Gujarat Titans,M. A. Chidambaram Stadium,147,1,17.3,47,61,53,183
+2023-04-26,Lucknow Super Giants,Gujarat Titans,Narendra Modi Stadium,132,3,18.6,43,55,39,149
+2023-03-31,Sunrisers Hyderabad,Chennai Super Kings,M. A. Chidambaram Stadium,81,4,12.8,47,23,31,131
+2023-05-09,Gujarat Titans,Mumbai Indians,Sawai Mansingh Stadium,80,0,9.3,24,32,46,204
+2023-04-13,Delhi Capitals,Gujarat Titans,Punjab Cricket Association Stadium,61,0,8.6,18,27,42,171
+2023-05-05,Rajasthan Royals,Gujarat Titans,Wankhede Stadium,60,1,6.6,21,27,39,199
+2023-05-25,Mumbai Indians,Punjab Kings,Arun Jaitley Stadium,115,1,14.9,69,30,45,169
+2023-05-21,Royal Challengers Bangalore,Rajasthan Royals,Wankhede Stadium,68,2,7.6,35,21,41,173
+2023-04-02,Sunrisers Hyderabad,Kolkata Knight Riders,Arun Jaitley Stadium,94,7,16.8,38,43,31,113
+2023-05-19,Delhi Capitals,Punjab Kings,Sawai Mansingh Stadium,61,4,10.8,25,27,30,128
+2023-04-22,Punjab Kings,Rajasthan Royals,Dr. DY Patil Sports Academy,157,1,19.3,72,45,32,165
+2023-05-17,Kolkata Knight Riders,Punjab Kings,Rajiv Gandhi International Cricket Stadium,49,2,6.0,23,11,43,197
+2023-05-05,Royal Challengers Bangalore,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,101,6,14.6,40,42,37,140
+2023-05-07,Lucknow Super Giants,Punjab Kings,Punjab Cricket Association Stadium,64,5,11.4,35,20,24,110
+2023-04-21,Chennai Super Kings,Kolkata Knight Riders,M. Chinnaswamy Stadium,59,1,8.3,30,22,42,175
+2023-05-15,Rajasthan Royals,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,84,0,8.5,46,27,45,218
+2023-05-05,Kolkata Knight Riders,Chennai Super Kings,Punjab Cricket Association Stadium,57,3,6.9,31,14,52,196
+2023-05-23,Gujarat Titans,Sunrisers Hyderabad,Eden Gardens,94,7,15.8,39,42,35,123
+2023-05-15,Delhi Capitals,Kolkata Knight Riders,M. Chinnaswamy Stadium,58,4,9.9,20,24,26,111
+2023-04-03,Kolkata Knight Riders,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,110,9,18.1,55,41,31,123
+2023-05-27,Rajasthan Royals,Gujarat Titans,Sawai Mansingh Stadium,110,3,16.6,45,42,37,150
+2023-05-28,Royal Challengers Bangalore,Gujarat Titans,Wankhede Stadium,110,9,18.2,40,50,31,121
+2023-04-20,Punjab Kings,Rajasthan Royals,M. Chinnaswamy Stadium,90,6,15.9,35,27,36,123
+2023-05-11,Mumbai Indians,Lucknow Super Giants,Arun Jaitley Stadium,65,0,7.9,22,29,52,187
+2023-05-08,Lucknow Super Giants,Chennai Super Kings,Eden Gardens,165,1,19.0,90,44,43,176
+2023-05-23,Kolkata Knight Riders,Chennai Super Kings,M. Chinnaswamy Stadium,166,1,17.3,65,51,54,201
+2023-04-26,Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,114,7,18.9,66,29,28,121
+2023-04-27,Lucknow Super Giants,Delhi Capitals,Narendra Modi Stadium,125,1,17.3,60,45,41,154
+2023-05-01,Kolkata Knight Riders,Punjab Kings,M. Chinnaswamy Stadium,73,4,9.9,35,16,31,151
+2023-05-14,Sunrisers Hyderabad,Lucknow Super Giants,Punjab Cricket Association Stadium,118,1,16.5,52,35,35,153
+2023-05-05,Punjab Kings,Lucknow Super Giants,Punjab Cricket Association Stadium,67,2,8.9,31,19,48,174
+2023-04-17,Lucknow Super Giants,Gujarat Titans,Dr. DY Patil Sports Academy,79,0,9.1,29,31,50,177
+2023-04-18,Royal Challengers Bangalore,Sunrisers Hyderabad,M. A. Chidambaram Stadium,117,4,17.7,35,50,42,140
+2023-04-04,Lucknow Super Giants,Mumbai Indians,Eden Gardens,44,2,7.2,18,16,33,146
+2023-05-28,Sunrisers Hyderabad,Delhi Capitals,Dr. DY Patil Sports Academy,119,4,19.4,45,60,36,123
+2023-04-15,Royal Challengers Bangalore,Gujarat Titans,M. A. Chidambaram Stadium,52,3,7.3,18,20,41,169
+2023-05-29,Delhi Capitals,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,59,1,6.7,21,29,39,183
+2023-04-18,Sunrisers Hyderabad,Chennai Super Kings,Punjab Cricket Association Stadium,98,6,15.0,33,45,26,130
+2023-04-05,Kolkata Knight Riders,Mumbai Indians,M. Chinnaswamy Stadium,92,6,13.4,51,24,30,139
+2023-04-05,Sunrisers Hyderabad,Punjab Kings,Rajiv Gandhi International Cricket Stadium,86,0,9.8,35,37,56,211
+2023-04-20,Delhi Capitals,Punjab Kings,M. A. Chidambaram Stadium,126,6,19.1,58,29,34,133
+2023-05-01,Sunrisers Hyderabad,Mumbai Indians,Arun Jaitley Stadium,75,1,8.9,27,35,54,184
+2023-05-05,Mumbai Indians,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,51,0,6.4,24,19,46,198
+2023-04-30,Kolkata Knight Riders,Sunrisers Hyderabad,Sawai Mansingh Stadium,64,1,7.1,36,19,42,204
+2023-05-02,Delhi Capitals,Mumbai Indians,M. Chinnaswamy Stadium,105,7,15.5,41,41,40,151
+2023-05-14,Kolkata Knight Riders,Rajasthan Royals,Arun Jaitley Stadium,90,6,17.4,48,26,25,108
+2023-05-01,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,148,5,19.0,65,51,40,159
+2023-04-09,Chennai Super Kings,Sunrisers Hyderabad,M. Chinnaswamy Stadium,86,3,9.9,49,25,43,176
+2023-05-25,Gujarat Titans,Mumbai Indians,Dr. DY Patil Sports Academy,53,2,6.0,17,23,50,224
+2023-05-27,Mumbai Indians,Lucknow Super Giants,Narendra Modi Stadium,109,4,16.5,42,38,37,138
+2023-04-24,Lucknow Super Giants,Kolkata Knight Riders,Punjab Cricket Association Stadium,127,2,18.2,60,40,43,145
+2023-04-04,Sunrisers Hyderabad,Punjab Kings,Dr. DY Patil Sports Academy,68,3,9.3,36,15,45,151
+2023-04-18,Delhi Capitals,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,69,4,9.0,41,20,45,187
+2023-04-14,Lucknow Super Giants,Punjab Kings,Arun Jaitley Stadium,99,4,14.2,53,28,39,155
+2023-04-28,Mumbai Indians,Punjab Kings,Eden Gardens,46,2,6.3,21,12,45,162
+2023-04-10,Delhi Capitals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,114,5,15.8,51,30,33,151
+2023-05-24,Gujarat Titans,Punjab Kings,M. A. Chidambaram Stadium,112,0,16.5,54,32,31,143
+2023-05-13,Kolkata Knight Riders,Sunrisers Hyderabad,Wankhede Stadium,102,5,14.0,47,25,45,150
+2023-05-30,Mumbai Indians,Delhi Capitals,Punjab Cricket Association Stadium,57,1,6.7,27,17,50,219
+2023-04-09,Rajasthan Royals,Chennai Super Kings,Punjab Cricket Association Stadium,86,2,13.9,46,21,38,137
+2023-05-11,Punjab Kings,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,94,0,9.0,31,36,58,242
+2023-04-08,Lucknow Super Giants,Kolkata Knight Riders,M. A. Chidambaram Stadium,81,8,17.0,35,35,20,95
+2023-04-09,Royal Challengers Bangalore,Gujarat Titans,M. Chinnaswamy Stadium,140,1,16.6,62,35,38,170
+2023-05-17,Rajasthan Royals,Gujarat Titans,M. A. Chidambaram Stadium,84,7,15.8,36,31,24,112
+2023-05-12,Gujarat Titans,Delhi Capitals,Punjab Cricket Association Stadium,101,0,14.3,47,31,37,154
+2023-05-08,Royal Challengers Bangalore,Chennai Super Kings,Eden Gardens,61,4,9.0,30,24,35,147
+2023-05-24,Gujarat Titans,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,93,1,11.5,44,27,38,173
+2023-05-13,Sunrisers Hyderabad,Chennai Super Kings,M. A. Chidambaram Stadium,132,1,17.1,44,57,32,166
+2023-04-26,Punjab Kings,Rajasthan Royals,Wankhede Stadium,109,9,19.0,38,48,30,116
+2023-04-07,Delhi Capitals,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,92,8,17.3,38,41,23,106
+2023-03-31,Royal Challengers Bangalore,Lucknow Super Giants,Dr. DY Patil Sports Academy,111,1,14.5,48,29,34,156
+2023-05-16,Punjab Kings,Chennai Super Kings,Wankhede Stadium,68,0,7.3,30,25,48,213
+2023-04-27,Chennai Super Kings,Delhi Capitals,Dr. DY Patil Sports Academy,69,5,12.1,25,36,25,126
+2023-04-18,Punjab Kings,Chennai Super Kings,Wankhede Stadium,87,3,12.2,40,32,43,164
+2023-04-02,Rajasthan Royals,Mumbai Indians,Punjab Cricket Association Stadium,118,5,18.4,52,47,27,128
+2023-05-09,Sunrisers Hyderabad,Punjab Kings,M. A. Chidambaram Stadium,84,0,11.3,35,32,35,152
+2023-05-02,Chennai Super Kings,Gujarat Titans,Sawai Mansingh Stadium,62,2,7.8,22,28,34,144
+2023-05-18,Chennai Super Kings,Royal Challengers Bangalore,Punjab Cricket Association Stadium,85,4,11.7,42,32,40,174
+2023-04-09,Sunrisers Hyderabad,Chennai Super Kings,Punjab Cricket Association Stadium,93,2,11.4,30,41,42,177
+2023-05-11,Chennai Super Kings,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,94,4,11.7,44,21,44,179
+2023-04-03,Sunrisers Hyderabad,Chennai Super Kings,Narendra Modi Stadium,140,1,19.2,55,49,37,148
+2023-04-18,Rajasthan Royals,Lucknow Super Giants,Narendra Modi Stadium,136,0,14.8,41,55,52,210
+2023-05-28,Lucknow Super Giants,Royal Challengers Bangalore,Narendra Modi Stadium,52,1,6.2,25,17,36,172
+2023-05-11,Punjab Kings,Royal Challengers Bangalore,Sawai Mansingh Stadium,43,3,6.4,22,10,32,142
+2023-04-09,Chennai Super Kings,Delhi Capitals,M. A. Chidambaram Stadium,97,4,12.4,34,34,46,162
+2023-05-23,Lucknow Super Giants,Royal Challengers Bangalore,Punjab Cricket Association Stadium,43,1,5.6,16,17,43,181
+2023-05-21,Sunrisers Hyderabad,Kolkata Knight Riders,Narendra Modi Stadium,80,7,14.8,34,27,35,114
+2023-04-16,Mumbai Indians,Sunrisers Hyderabad,Narendra Modi Stadium,121,0,13.0,37,50,40,204
+2023-04-05,Kolkata Knight Riders,Sunrisers Hyderabad,Narendra Modi Stadium,96,6,18.5,50,21,25,105
+2023-05-11,Punjab Kings,Royal Challengers Bangalore,Eden Gardens,45,1,5.6,20,17,32,158
+2023-05-05,Lucknow Super Giants,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,41,2,6.6,18,12,35,143
+2023-05-04,Mumbai Indians,Gujarat Titans,Dr. DY Patil Sports Academy,59,1,8.5,25,19,31,144
+2023-05-03,Gujarat Titans,Lucknow Super Giants,Sawai Mansingh Stadium,92,3,13.0,36,34,41,148
+2023-05-12,Chennai Super Kings,Punjab Kings,Eden Gardens,42,2,5.6,22,14,42,159
+2023-05-15,Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,71,1,7.9,28,25,54,203
+2023-04-18,Punjab Kings,Mumbai Indians,Narendra Modi Stadium,68,2,9.0,36,16,36,147
+2023-05-21,Gujarat Titans,Delhi Capitals,M. A. Chidambaram Stadium,125,1,15.5,44,47,34,168
+2023-05-15,Rajasthan Royals,Royal Challengers Bangalore,Punjab Cricket Association Stadium,96,0,10.1,41,37,53,233
+2023-04-25,Punjab Kings,Gujarat Titans,Eden Gardens,168,2,18.8,57,74,41,182
+2023-04-02,Lucknow Super Giants,Royal Challengers Bangalore,Punjab Cricket Association Stadium,104,5,18.8,38,37,26,111
+2023-04-11,Sunrisers Hyderabad,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,126,1,18.2,69,29,32,142
+2023-05-24,Chennai Super Kings,Sunrisers Hyderabad,Eden Gardens,131,7,18.0,81,35,41,150
+2023-04-19,Royal Challengers Bangalore,Lucknow Super Giants,Narendra Modi Stadium,130,0,12.4,53,43,51,237
+2023-04-08,Lucknow Super Giants,Chennai Super Kings,M. A. Chidambaram Stadium,68,3,9.5,24,33,46,163
+2023-04-22,Royal Challengers Bangalore,Gujarat Titans,Dr. DY Patil Sports Academy,67,1,7.6,20,26,38,174
+2023-04-22,Gujarat Titans,Delhi Capitals,M. A. Chidambaram Stadium,52,4,8.6,18,24,33,129
+2023-05-09,Lucknow Super Giants,Punjab Kings,Dr. DY Patil Sports Academy,43,0,5.6,17,19,35,157
+2023-05-26,Gujarat Titans,Delhi Capitals,M. Chinnaswamy Stadium,80,6,12.0,38,24,29,130
+2023-04-09,Punjab Kings,Lucknow Super Giants,Narendra Modi Stadium,162,2,19.1,55,61,36,169
+2023-05-30,Rajasthan Royals,Lucknow Super Giants,Arun Jaitley Stadium,162,2,19.0,62,74,37,174
+2023-05-01,Mumbai Indians,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,91,1,12.3,35,29,45,175
+2023-05-24,Chennai Super Kings,Rajasthan Royals,Eden Gardens,119,5,17.8,53,39,30,134
+2023-05-18,Gujarat Titans,Delhi Capitals,Dr. DY Patil Sports Academy,95,1,14.9,51,22,34,138
+2023-04-25,Gujarat Titans,Mumbai Indians,Wankhede Stadium,42,2,5.6,19,13,40,167
+2023-05-09,Delhi Capitals,Punjab Kings,Sawai Mansingh Stadium,99,8,17.0,31,46,28,114
+2023-05-27,Mumbai Indians,Sunrisers Hyderabad,M. Chinnaswamy Stadium,133,9,19.0,49,59,39,141
+2023-05-13,Kolkata Knight Riders,Mumbai Indians,Dr. DY Patil Sports Academy,136,1,18.7,55,50,32,148
+2023-05-24,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,71,2,8.0,37,17,46,210
+2023-05-25,Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,115,4,18.9,50,52,28,122
+2023-04-22,Gujarat Titans,Delhi Capitals,M. Chinnaswamy Stadium,56,3,6.8,27,15,36,150
+2023-05-29,Sunrisers Hyderabad,Delhi Capitals,Punjab Cricket Association Stadium,50,4,8.1,16,21,36,131
+2023-04-14,Kolkata Knight Riders,Mumbai Indians,M. A. Chidambaram Stadium,69,5,11.0,34,15,40,144
+2023-04-30,Sunrisers Hyderabad,Kolkata Knight Riders,M. Chinnaswamy Stadium,88,0,9.7,40,31,53,222
+2023-05-26,Royal Challengers Bangalore,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,158,2,16.4,92,47,38,202
+2023-04-18,Sunrisers Hyderabad,Gujarat Titans,Sawai Mansingh Stadium,105,1,12.2,33,43,37,174
+2023-05-17,Punjab Kings,Delhi Capitals,Dr. DY Patil Sports Academy,106,3,14.8,60,32,38,151
+2023-04-08,Sunrisers Hyderabad,Punjab Kings,Arun Jaitley Stadium,37,1,5.1,16,16,37,171
+2023-04-03,Chennai Super Kings,Sunrisers Hyderabad,M. Chinnaswamy Stadium,65,2,7.3,29,28,40,191
+2023-05-08,Punjab Kings,Rajasthan Royals,Sawai Mansingh Stadium,128,8,18.2,65,43,38,145
+2023-04-23,Chennai Super Kings,Lucknow Super Giants,Wankhede Stadium,101,8,17.0,48,25,30,125
+2023-05-27,Gujarat Titans,Sunrisers Hyderabad,Wankhede Stadium,82,4,11.6,40,26,33,130
+2023-04-13,Lucknow Super Giants,Chennai Super Kings,Wankhede Stadium,71,5,11.1,26,36,41,139
+2023-05-19,Rajasthan Royals,Punjab Kings,Rajiv Gandhi International Cricket Stadium,80,3,11.5,37,29,39,153
+2023-05-03,Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,125,4,16.0,50,47,35,156
+2023-05-26,Chennai Super Kings,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,100,0,13.9,43,38,40,159
+2023-04-28,Kolkata Knight Riders,Gujarat Titans,Arun Jaitley Stadium,128,0,15.9,64,31,43,191
+2023-04-15,Delhi Capitals,Royal Challengers Bangalore,Sawai Mansingh Stadium,57,2,8.2,28,17,31,136
+2023-04-22,Rajasthan Royals,Gujarat Titans,Narendra Modi Stadium,76,6,15.1,35,29,30,112
+2023-05-28,Mumbai Indians,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,114,8,19.0,42,42,25,119
+2023-05-23,Kolkata Knight Riders,Mumbai Indians,M. Chinnaswamy Stadium,85,4,10.5,39,23,47,194
+2023-04-21,Delhi Capitals,Mumbai Indians,Arun Jaitley Stadium,159,1,18.6,85,54,49,175
+2023-04-18,Rajasthan Royals,Sunrisers Hyderabad,Sawai Mansingh Stadium,88,4,14.4,30,40,39,140
+2023-04-23,Punjab Kings,Rajasthan Royals,Wankhede Stadium,113,1,13.2,52,38,50,184
+2023-05-06,Kolkata Knight Riders,Sunrisers Hyderabad,Sawai Mansingh Stadium,91,5,14.5,48,33,33,132
+2023-05-16,Gujarat Titans,Sunrisers Hyderabad,Eden Gardens,132,8,18.3,69,36,30,142
+2023-04-08,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,35,2,5.1,19,9,35,156
+2023-04-26,Mumbai Indians,Lucknow Super Giants,Sawai Mansingh Stadium,99,4,15.5,53,29,40,131
+2023-04-12,Lucknow Super Giants,Gujarat Titans,M. Chinnaswamy Stadium,119,4,16.8,57,49,32,147
+2023-04-05,Mumbai Indians,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,74,4,10.5,26,35,43,169
+2023-04-06,Gujarat Titans,Mumbai Indians,Arun Jaitley Stadium,46,4,8.1,22,10,35,126
+2023-04-20,Mumbai Indians,Kolkata Knight Riders,Dr. DY Patil Sports Academy,56,3,7.1,25,19,49,182
+2023-05-17,Royal Challengers Bangalore,Chennai Super Kings,Sawai Mansingh Stadium,89,5,15.8,38,38,33,125
+2023-04-01,Delhi Capitals,Sunrisers Hyderabad,Punjab Cricket Association Stadium,61,4,8.3,30,20,31,153
+2023-04-05,Delhi Capitals,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,117,2,15.3,33,50,36,155
+2023-04-11,Rajasthan Royals,Sunrisers Hyderabad,Sawai Mansingh Stadium,73,3,13.0,34,24,33,123
+2023-05-19,Chennai Super Kings,Gujarat Titans,Arun Jaitley Stadium,102,1,13.3,36,39,33,153
+2023-05-20,Chennai Super Kings,Punjab Kings,M. Chinnaswamy Stadium,116,7,18.7,41,42,39,127
+2023-04-21,Sunrisers Hyderabad,Punjab Kings,Rajiv Gandhi International Cricket Stadium,119,2,16.8,54,45,31,147
+2023-05-10,Sunrisers Hyderabad,Kolkata Knight Riders,Narendra Modi Stadium,76,3,10.5,39,16,32,152
+2023-05-30,Kolkata Knight Riders,Sunrisers Hyderabad,M. Chinnaswamy Stadium,172,1,17.1,73,60,56,220
+2023-05-20,Rajasthan Royals,Chennai Super Kings,Punjab Cricket Association Stadium,115,7,19.4,67,34,30,119
+2023-05-21,Gujarat Titans,Chennai Super Kings,M. A. Chidambaram Stadium,87,5,16.1,41,28,30,119
+2023-04-06,Mumbai Indians,Chennai Super Kings,M. Chinnaswamy Stadium,65,4,8.2,24,23,41,173
+2023-04-01,Sunrisers Hyderabad,Chennai Super Kings,M. Chinnaswamy Stadium,95,0,11.0,34,35,44,204
+2023-04-28,Sunrisers Hyderabad,Punjab Kings,M. A. Chidambaram Stadium,61,0,9.4,28,15,41,157
+2023-04-21,Gujarat Titans,Rajasthan Royals,Punjab Cricket Association Stadium,57,3,8.4,24,22,39,156
+2023-03-31,Kolkata Knight Riders,Lucknow Super Giants,M. Chinnaswamy Stadium,151,1,15.9,62,59,42,199
+2023-05-10,Punjab Kings,Rajasthan Royals,Dr. DY Patil Sports Academy,95,0,10.7,50,27,51,206
+2023-04-08,Punjab Kings,Chennai Super Kings,Arun Jaitley Stadium,67,1,9.4,30,21,38,163
+2023-05-28,Royal Challengers Bangalore,Gujarat Titans,Eden Gardens,97,1,12.1,52,27,51,180
+2023-05-05,Gujarat Titans,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,90,6,14.9,37,28,36,120
+2023-04-18,Royal Challengers Bangalore,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,90,7,15.8,41,23,34,120
+2023-05-16,Sunrisers Hyderabad,Gujarat Titans,Arun Jaitley Stadium,162,1,19.4,80,40,34,168
+2023-05-25,Chennai Super Kings,Kolkata Knight Riders,Arun Jaitley Stadium,117,5,16.8,53,38,41,153
+2023-05-04,Delhi Capitals,Gujarat Titans,Eden Gardens,64,2,9.7,38,16,37,153
+2023-05-28,Mumbai Indians,Delhi Capitals,Eden Gardens,115,2,15.2,62,36,43,170
+2023-04-26,Rajasthan Royals,Sunrisers Hyderabad,M. A. Chidambaram Stadium,109,1,14.2,60,30,39,179
+2023-05-24,Chennai Super Kings,Sunrisers Hyderabad,Narendra Modi Stadium,109,8,17.3,51,42,30,124
+2023-05-24,Sunrisers Hyderabad,Punjab Kings,Wankhede Stadium,49,2,5.7,23,12,44,189
+2023-05-14,Royal Challengers Bangalore,Delhi Capitals,Eden Gardens,106,4,17.7,45,30,33,125
+2023-05-18,Kolkata Knight Riders,Rajasthan Royals,M. A. Chidambaram Stadium,104,0,15.2,47,37,35,148
+2023-05-25,Rajasthan Royals,Royal Challengers Bangalore,Punjab Cricket Association Stadium,39,3,6.0,14,13,30,137
+2023-05-11,Royal Challengers Bangalore,Chennai Super Kings,Sawai Mansingh Stadium,95,4,13.2,47,33,31,152
+2023-04-05,Chennai Super Kings,Royal Challengers Bangalore,M. A. Chidambaram Stadium,89,3,13.5,36,40,37,148
+2023-04-18,Mumbai Indians,Delhi Capitals,Arun Jaitley Stadium,75,4,12.5,39,22,35,126
+2023-05-10,Lucknow Super Giants,Chennai Super Kings,Sawai Mansingh Stadium,184,0,17.9,87,45,55,222
+2023-05-19,Chennai Super Kings,Mumbai Indians,Dr. DY Patil Sports Academy,45,2,6.0,20,19,36,162
+2023-04-25,Chennai Super Kings,Gujarat Titans,Sawai Mansingh Stadium,86,2,13.9,52,23,27,130
+2023-05-11,Chennai Super Kings,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,90,3,15.6,37,32,32,131
+2023-04-07,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,66,2,7.4,25,30,39,193
+2023-05-19,Mumbai Indians,Punjab Kings,Rajiv Gandhi International Cricket Stadium,79,0,8.9,35,29,47,198
+2023-04-10,Delhi Capitals,Chennai Super Kings,Dr. DY Patil Sports Academy,106,1,14.8,49,25,33,145
+2023-05-29,Mumbai Indians,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,70,1,8.3,22,30,41,173
+2023-05-21,Gujarat Titans,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,49,3,6.0,15,21,42,186
+2023-05-17,Lucknow Super Giants,Kolkata Knight Riders,Punjab Cricket Association Stadium,87,3,10.3,41,32,51,190
+2023-05-04,Punjab Kings,Mumbai Indians,Narendra Modi Stadium,39,2,5.0,13,15,39,179
+2023-04-09,Delhi Capitals,Chennai Super Kings,Wankhede Stadium,121,8,18.4,59,35,35,134
+2023-05-07,Lucknow Super Giants,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,94,2,14.6,45,25,37,140
+2023-04-04,Kolkata Knight Riders,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,50,0,6.6,21,17,49,168
+2023-04-07,Chennai Super Kings,Royal Challengers Bangalore,M. Chinnaswamy Stadium,155,0,17.0,69,43,58,192
+2023-05-22,Royal Challengers Bangalore,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,108,8,17.4,54,30,27,125
+2023-04-08,Kolkata Knight Riders,Rajasthan Royals,Narendra Modi Stadium,118,1,15.0,41,60,32,169
+2023-05-27,Punjab Kings,Chennai Super Kings,Wankhede Stadium,163,0,18.7,73,67,35,176
+2023-04-11,Delhi Capitals,Lucknow Super Giants,Punjab Cricket Association Stadium,155,0,17.8,70,57,54,182
+2023-04-26,Kolkata Knight Riders,Gujarat Titans,Arun Jaitley Stadium,141,0,14.1,61,47,52,233
+2023-04-11,Mumbai Indians,Punjab Kings,Dr. DY Patil Sports Academy,61,2,8.2,30,18,49,176
+2023-04-17,Gujarat Titans,Mumbai Indians,Arun Jaitley Stadium,77,6,13.3,31,37,26,115
+2023-05-07,Mumbai Indians,Punjab Kings,Dr. DY Patil Sports Academy,111,4,13.2,66,29,45,168
+2023-05-08,Kolkata Knight Riders,Mumbai Indians,Sawai Mansingh Stadium,96,2,11.9,42,26,51,180
+2023-05-07,Royal Challengers Bangalore,Chennai Super Kings,Sawai Mansingh Stadium,152,1,17.5,50,67,41,177
+2023-05-20,Sunrisers Hyderabad,Punjab Kings,Eden Gardens,88,5,15.3,31,32,33,128
+2023-05-30,Lucknow Super Giants,Rajasthan Royals,Dr. DY Patil Sports Academy,40,2,5.5,19,13,31,137
+2023-04-22,Punjab Kings,Royal Challengers Bangalore,M. A. Chidambaram Stadium,100,5,16.9,31,43,27,116
+2023-05-16,Rajasthan Royals,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,79,3,12.1,43,24,35,146
+2023-05-21,Mumbai Indians,Delhi Capitals,Wankhede Stadium,75,0,9.6,36,22,42,184
+2023-05-09,Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,141,2,18.7,50,50,48,157
+2023-05-04,Delhi Capitals,Lucknow Super Giants,M. Chinnaswamy Stadium,73,0,8.4,24,34,35,180
+2023-04-30,Kolkata Knight Riders,Chennai Super Kings,Wankhede Stadium,74,2,8.0,34,19,48,221
+2023-04-24,Royal Challengers Bangalore,Punjab Kings,Rajiv Gandhi International Cricket Stadium,66,3,10.4,32,17,34,140
+2023-05-12,Punjab Kings,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,98,9,19.1,42,33,33,104
+2023-04-15,Sunrisers Hyderabad,Delhi Capitals,M. A. Chidambaram Stadium,55,5,10.7,25,18,33,116
+2023-05-30,Royal Challengers Bangalore,Kolkata Knight Riders,Arun Jaitley Stadium,44,3,6.8,21,11,28,131
+2023-05-21,Chennai Super Kings,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,81,4,13.1,42,21,37,137
+2023-04-26,Royal Challengers Bangalore,Lucknow Super Giants,Dr. DY Patil Sports Academy,86,6,13.5,39,22,38,148
+2023-04-16,Rajasthan Royals,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,100,0,13.8,49,32,36,160
+2023-04-03,Sunrisers Hyderabad,Delhi Capitals,Narendra Modi Stadium,41,1,5.3,21,14,41,184
+2023-05-19,Punjab Kings,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,103,0,13.8,55,33,44,182
+2023-04-10,Chennai Super Kings,Delhi Capitals,Sawai Mansingh Stadium,74,4,10.8,35,19,41,158
+2023-05-15,Kolkata Knight Riders,Delhi Capitals,Narendra Modi Stadium,106,8,16.9,41,46,32,133
+2023-05-05,Punjab Kings,Lucknow Super Giants,Eden Gardens,133,4,17.1,51,48,34,165
+2023-05-11,Kolkata Knight Riders,Lucknow Super Giants,M. Chinnaswamy Stadium,159,0,14.4,72,60,48,229
+2023-05-08,Delhi Capitals,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,103,5,18.0,43,34,32,118
+2023-05-23,Punjab Kings,Gujarat Titans,Dr. DY Patil Sports Academy,113,2,13.8,41,44,39,175
+2023-05-11,Delhi Capitals,Kolkata Knight Riders,Eden Gardens,116,1,12.5,57,41,52,228
+2023-04-18,Delhi Capitals,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,98,0,10.6,42,42,53,235
+2023-05-30,Punjab Kings,Gujarat Titans,M. Chinnaswamy Stadium,96,8,17.3,33,36,33,114
+2023-04-21,Chennai Super Kings,Kolkata Knight Riders,Narendra Modi Stadium,66,2,8.2,29,21,41,170
+2023-05-07,Lucknow Super Giants,Chennai Super Kings,Punjab Cricket Association Stadium,94,8,17.9,39,36,32,108
+2023-05-06,Sunrisers Hyderabad,Royal Challengers Bangalore,Narendra Modi Stadium,140,2,17.5,52,63,44,168
+2023-04-10,Lucknow Super Giants,Royal Challengers Bangalore,Punjab Cricket Association Stadium,112,1,16.4,46,41,35,149
+2023-05-30,Mumbai Indians,Punjab Kings,Sawai Mansingh Stadium,67,0,7.8,28,27,37,171
+2023-05-22,Mumbai Indians,Delhi Capitals,M. Chinnaswamy Stadium,87,4,11.6,53,23,36,153
+2023-05-30,Rajasthan Royals,Mumbai Indians,Arun Jaitley Stadium,51,1,8.3,17,22,35,149
+2023-05-19,Gujarat Titans,Mumbai Indians,Dr. DY Patil Sports Academy,143,1,19.4,62,56,36,148
+2023-05-14,Mumbai Indians,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,110,4,14.6,57,28,39,164
+2023-05-01,Kolkata Knight Riders,Lucknow Super Giants,M. Chinnaswamy Stadium,126,3,17.1,52,40,46,157
+2023-03-31,Chennai Super Kings,Lucknow Super Giants,Dr. DY Patil Sports Academy,135,2,14.7,59,36,57,210
+2023-04-16,Sunrisers Hyderabad,Mumbai Indians,M. A. Chidambaram Stadium,144,0,16.8,63,56,36,183
+2023-04-08,Royal Challengers Bangalore,Punjab Kings,Narendra Modi Stadium,107,9,18.0,41,41,25,119
+2023-05-14,Sunrisers Hyderabad,Rajasthan Royals,Eden Gardens,66,0,6.6,32,15,52,249
+2023-05-19,Punjab Kings,Mumbai Indians,Eden Gardens,77,3,12.0,26,28,31,142
+2023-05-06,Lucknow Super Giants,Kolkata Knight Riders,Narendra Modi Stadium,75,5,12.5,29,32,29,125
+2023-05-05,Lucknow Super Giants,Mumbai Indians,Wankhede Stadium,114,2,14.3,40,50,47,170
+2023-05-02,Kolkata Knight Riders,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,76,1,10.8,26,35,36,180
+2023-04-01,Chennai Super Kings,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,33,2,5.5,15,11,28,120
+2023-05-30,Punjab Kings,Lucknow Super Giants,Wankhede Stadium,111,7,16.8,55,35,32,131
+2023-03-31,Punjab Kings,Lucknow Super Giants,M. Chinnaswamy Stadium,105,2,12.9,34,42,47,183
+2023-04-12,Chennai Super Kings,Rajasthan Royals,Arun Jaitley Stadium,89,1,11.6,47,22,46,188
+2023-05-12,Lucknow Super Giants,Gujarat Titans,Eden Gardens,143,0,19.0,82,44,39,156
+2023-05-07,Royal Challengers Bangalore,Lucknow Super Giants,M. A. Chidambaram Stadium,71,4,10.6,32,29,37,150
+2023-04-21,Delhi Capitals,Sunrisers Hyderabad,Eden Gardens,57,2,7.0,27,16,44,182
+2023-05-13,Punjab Kings,Royal Challengers Bangalore,Eden Gardens,87,5,12.3,42,31,38,167
+2023-05-27,Gujarat Titans,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,82,8,16.7,24,33,23,102
+2023-04-09,Mumbai Indians,Delhi Capitals,Arun Jaitley Stadium,127,0,15.9,63,41,43,179
+2023-05-02,Delhi Capitals,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,62,5,10.6,20,22,32,146
+2023-05-28,Punjab Kings,Gujarat Titans,Dr. DY Patil Sports Academy,57,1,7.8,21,25,32,147
+2023-05-05,Delhi Capitals,Royal Challengers Bangalore,Eden Gardens,84,2,13.5,30,43,39,146
+2023-05-23,Delhi Capitals,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,112,0,13.0,37,45,36,184
+2023-04-05,Punjab Kings,Kolkata Knight Riders,Arun Jaitley Stadium,83,5,14.6,39,31,37,124
+2023-05-12,Punjab Kings,Sunrisers Hyderabad,Arun Jaitley Stadium,114,9,18.1,53,26,31,124
+2023-05-16,Delhi Capitals,Mumbai Indians,Sawai Mansingh Stadium,105,5,16.9,40,42,35,126
+2023-05-19,Gujarat Titans,Lucknow Super Giants,Wankhede Stadium,118,3,14.1,54,48,35,181
+2023-05-19,Rajasthan Royals,Chennai Super Kings,Eden Gardens,34,2,5.3,15,8,34,142
+2023-04-24,Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,71,3,9.6,34,24,43,160
+2023-05-29,Gujarat Titans,Chennai Super Kings,M. Chinnaswamy Stadium,115,4,16.4,52,49,42,143
+2023-05-17,Rajasthan Royals,Gujarat Titans,M. Chinnaswamy Stadium,154,2,18.9,90,46,46,168
+2023-04-09,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,115,3,13.3,54,32,54,191
+2023-05-02,Royal Challengers Bangalore,Lucknow Super Giants,Eden Gardens,55,2,8.2,31,16,41,169
+2023-05-05,Chennai Super Kings,Delhi Capitals,M. A. Chidambaram Stadium,71,1,8.6,23,30,47,195
+2023-04-20,Sunrisers Hyderabad,Lucknow Super Giants,Narendra Modi Stadium,101,2,13.9,52,29,46,160
+2023-05-15,Rajasthan Royals,Delhi Capitals,Narendra Modi Stadium,56,2,6.9,21,21,44,192
+2023-05-24,Royal Challengers Bangalore,Gujarat Titans,Arun Jaitley Stadium,85,0,8.8,43,30,58,228
+2023-04-02,Gujarat Titans,Delhi Capitals,Sawai Mansingh Stadium,108,8,18.0,38,44,35,122
+2023-05-02,Chennai Super Kings,Rajasthan Royals,Narendra Modi Stadium,79,5,12.3,42,27,38,134
+2023-05-06,Royal Challengers Bangalore,Sunrisers Hyderabad,Narendra Modi Stadium,40,1,5.6,17,11,38,190
+2023-05-26,Mumbai Indians,Lucknow Super Giants,Narendra Modi Stadium,53,2,6.5,19,23,46,199
+2023-05-03,Delhi Capitals,Rajasthan Royals,Arun Jaitley Stadium,95,2,12.5,54,27,30,161
+2023-05-02,Delhi Capitals,Kolkata Knight Riders,Eden Gardens,62,2,7.7,27,24,39,157
+2023-05-07,Royal Challengers Bangalore,Rajasthan Royals,Wankhede Stadium,72,1,8.5,24,34,46,175
+2023-04-25,Lucknow Super Giants,Mumbai Indians,M. Chinnaswamy Stadium,154,3,18.7,60,73,50,172
+2023-04-11,Lucknow Super Giants,Gujarat Titans,M. Chinnaswamy Stadium,67,2,7.4,24,23,39,180
+2023-05-13,Rajasthan Royals,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,51,3,6.4,24,19,47,185
+2023-05-04,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium,101,0,11.1,48,40,53,236
+2023-05-23,Lucknow Super Giants,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,56,3,6.9,23,16,43,174
+2023-03-31,Lucknow Super Giants,Gujarat Titans,M. A. Chidambaram Stadium,91,3,12.5,35,34,32,154
+2023-04-27,Lucknow Super Giants,Punjab Kings,Dr. DY Patil Sports Academy,66,3,9.0,30,25,36,140
+2023-04-22,Rajasthan Royals,Royal Challengers Bangalore,M. A. Chidambaram Stadium,104,7,15.8,41,33,39,144
+2023-04-03,Royal Challengers Bangalore,Rajasthan Royals,Wankhede Stadium,143,2,16.7,49,53,42,185
+2023-04-25,Lucknow Super Giants,Gujarat Titans,M. Chinnaswamy Stadium,163,0,15.3,71,63,48,235
+2023-04-02,Lucknow Super Giants,Gujarat Titans,Sawai Mansingh Stadium,114,2,15.1,65,29,32,159
+2023-04-25,Lucknow Super Giants,Kolkata Knight Riders,Sawai Mansingh Stadium,30,2,5.2,14,7,30,138
+2023-05-08,Kolkata Knight Riders,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,92,2,13.3,41,33,33,138
+2023-05-04,Lucknow Super Giants,Delhi Capitals,Punjab Cricket Association Stadium,103,9,19.0,50,29,31,110
+2023-04-16,Chennai Super Kings,Rajasthan Royals,Arun Jaitley Stadium,111,3,14.8,47,37,43,158
+2023-05-17,Punjab Kings,Chennai Super Kings,Sawai Mansingh Stadium,101,7,18.5,37,44,32,112
+2023-04-15,Kolkata Knight Riders,Delhi Capitals,Arun Jaitley Stadium,69,1,8.3,25,33,35,170
+2023-05-24,Gujarat Titans,Mumbai Indians,Punjab Cricket Association Stadium,84,2,10.4,48,25,42,207
+2023-04-14,Lucknow Super Giants,Royal Challengers Bangalore,Wankhede Stadium,96,3,12.6,39,37,43,178
+2023-04-29,Punjab Kings,Mumbai Indians,Wankhede Stadium,96,6,14.8,37,41,35,135
+2023-04-23,Royal Challengers Bangalore,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,60,2,8.1,27,20,47,184
+2023-05-21,Kolkata Knight Riders,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,123,3,17.4,57,32,31,150
+2023-05-03,Gujarat Titans,Punjab Kings,Punjab Cricket Association Stadium,62,4,9.4,20,24,30,123
+2023-05-17,Punjab Kings,Delhi Capitals,Narendra Modi Stadium,76,4,10.2,23,30,46,174
+2023-05-11,Gujarat Titans,Royal Challengers Bangalore,M. Chinnaswamy Stadium,71,5,10.1,23,32,39,175
+2023-05-10,Punjab Kings,Rajasthan Royals,Dr. DY Patil Sports Academy,83,6,13.3,31,32,35,136
+2023-05-26,Sunrisers Hyderabad,Punjab Kings,Dr. DY Patil Sports Academy,80,3,12.6,34,21,36,146
+2023-04-10,Rajasthan Royals,Chennai Super Kings,M. A. Chidambaram Stadium,40,1,5.9,19,11,29,134
+2023-05-26,Rajasthan Royals,Delhi Capitals,Arun Jaitley Stadium,55,2,8.6,19,24,26,138
+2023-04-29,Gujarat Titans,Delhi Capitals,Sawai Mansingh Stadium,73,5,11.5,36,21,39,143
+2023-05-28,Punjab Kings,Sunrisers Hyderabad,Sawai Mansingh Stadium,69,0,8.3,25,26,33,185
+2023-04-30,Gujarat Titans,Mumbai Indians,Punjab Cricket Association Stadium,106,7,18.7,52,38,34,115
+2023-04-27,Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,92,6,15.4,38,27,31,134
+2023-04-17,Delhi Capitals,Gujarat Titans,M. Chinnaswamy Stadium,85,0,11.0,41,29,36,158
+2023-04-03,Gujarat Titans,Mumbai Indians,Eden Gardens,122,4,19.1,48,54,28,128
+2023-05-21,Sunrisers Hyderabad,Punjab Kings,Punjab Cricket Association Stadium,126,0,15.1,46,65,49,184
+2023-05-23,Delhi Capitals,Rajasthan Royals,Wankhede Stadium,61,1,6.8,31,13,40,187
+2023-04-13,Sunrisers Hyderabad,Rajasthan Royals,M. Chinnaswamy Stadium,141,2,18.6,69,55,35,154
+2023-05-25,Kolkata Knight Riders,Chennai Super Kings,Arun Jaitley Stadium,79,5,14.2,33,31,25,118
+2023-05-14,Lucknow Super Giants,Royal Challengers Bangalore,Narendra Modi Stadium,93,3,16.2,52,24,37,123
+2023-05-14,Gujarat Titans,Chennai Super Kings,Eden Gardens,108,2,12.1,58,32,45,202
+2023-04-08,Delhi Capitals,Mumbai Indians,Punjab Cricket Association Stadium,101,4,15.2,46,35,32,143
+2023-05-25,Gujarat Titans,Royal Challengers Bangalore,M. A. Chidambaram Stadium,76,3,12.7,23,35,33,124
+2023-05-24,Punjab Kings,Kolkata Knight Riders,Narendra Modi Stadium,89,6,15.5,33,42,27,113
+2023-05-12,Chennai Super Kings,Mumbai Indians,Eden Gardens,59,0,7.6,24,18,47,195
+2023-04-16,Mumbai Indians,Punjab Kings,Arun Jaitley Stadium,108,0,13.8,60,28,47,179
+2023-05-17,Rajasthan Royals,Punjab Kings,Wankhede Stadium,127,4,16.9,46,63,34,150
+2023-04-24,Kolkata Knight Riders,Lucknow Super Giants,Sawai Mansingh Stadium,114,2,14.5,60,35,43,178
+2023-04-06,Royal Challengers Bangalore,Lucknow Super Giants,Sawai Mansingh Stadium,89,2,10.8,49,23,51,216
+2023-04-26,Rajasthan Royals,Punjab Kings,Dr. DY Patil Sports Academy,53,4,8.5,22,24,40,139
+2023-04-18,Lucknow Super Giants,Mumbai Indians,Sawai Mansingh Stadium,48,2,7.0,17,18,41,185
+2023-05-02,Gujarat Titans,Royal Challengers Bangalore,M. A. Chidambaram Stadium,35,1,5.5,14,16,29,130
+2023-04-13,Chennai Super Kings,Punjab Kings,Punjab Cricket Association Stadium,63,0,7.5,30,22,35,167
+2023-05-22,Rajasthan Royals,Lucknow Super Giants,M. A. Chidambaram Stadium,137,3,17.6,71,49,43,162
+2023-05-06,Royal Challengers Bangalore,Punjab Kings,Sawai Mansingh Stadium,108,2,15.1,44,39,39,156
+2023-04-25,Royal Challengers Bangalore,Lucknow Super Giants,Narendra Modi Stadium,52,0,6.2,21,19,48,203
+2023-04-25,Lucknow Super Giants,Kolkata Knight Riders,Sawai Mansingh Stadium,82,5,13.9,32,29,33,123
+2023-04-23,Punjab Kings,Kolkata Knight Riders,Narendra Modi Stadium,54,5,10.0,28,20,35,110
+2023-05-22,Kolkata Knight Riders,Lucknow Super Giants,Narendra Modi Stadium,50,0,7.3,30,14,42,166
+2023-04-07,Delhi Capitals,Sunrisers Hyderabad,Punjab Cricket Association Stadium,44,0,5.3,22,13,44,230
+2023-05-12,Mumbai Indians,Rajasthan Royals,Dr. DY Patil Sports Academy,90,8,18.1,43,24,27,100
+2023-04-24,Delhi Capitals,Punjab Kings,M. A. Chidambaram Stadium,40,2,5.3,19,12,40,168
+2023-04-12,Gujarat Titans,Sunrisers Hyderabad,Sawai Mansingh Stadium,141,0,18.4,58,48,45,159
+2023-04-19,Kolkata Knight Riders,Gujarat Titans,M. Chinnaswamy Stadium,147,4,16.8,51,74,47,185
+2023-05-12,Royal Challengers Bangalore,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,87,5,12.6,30,34,30,148
+2023-05-04,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,102,5,13.4,47,30,40,174
+2023-04-09,Lucknow Super Giants,Royal Challengers Bangalore,Narendra Modi Stadium,47,0,6.0,14,20,38,184
+2023-05-17,Delhi Capitals,Royal Challengers Bangalore,Arun Jaitley Stadium,45,1,6.5,21,15,39,152
+2023-04-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Sawai Mansingh Stadium,103,7,17.3,49,40,26,117
+2023-03-31,Delhi Capitals,Rajasthan Royals,Arun Jaitley Stadium,105,3,15.8,64,28,41,144
+2023-04-15,Rajasthan Royals,Lucknow Super Giants,Wankhede Stadium,80,6,13.8,40,24,31,130
+2023-05-03,Chennai Super Kings,Sunrisers Hyderabad,Punjab Cricket Association Stadium,153,0,17.0,85,37,36,194
+2023-04-12,Delhi Capitals,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,114,4,17.8,39,54,33,134
+2023-05-16,Gujarat Titans,Chennai Super Kings,Eden Gardens,82,8,16.3,29,35,27,104
+2023-04-16,Punjab Kings,Royal Challengers Bangalore,M. A. Chidambaram Stadium,43,3,6.3,22,13,43,152
+2023-04-02,Royal Challengers Bangalore,Punjab Kings,Dr. DY Patil Sports Academy,116,2,17.6,41,57,31,138
+2023-04-11,Chennai Super Kings,Royal Challengers Bangalore,Arun Jaitley Stadium,34,1,5.1,17,9,34,159
+2023-04-29,Rajasthan Royals,Sunrisers Hyderabad,M. A. Chidambaram Stadium,101,0,13.7,47,36,44,161
+2023-04-02,Royal Challengers Bangalore,Mumbai Indians,Dr. DY Patil Sports Academy,105,4,17.2,52,22,26,125
+2023-05-06,Gujarat Titans,Royal Challengers Bangalore,Punjab Cricket Association Stadium,102,5,15.9,39,37,31,129
+2023-04-18,Sunrisers Hyderabad,Royal Challengers Bangalore,M. A. Chidambaram Stadium,89,4,15.1,30,35,24,128
+2023-04-05,Sunrisers Hyderabad,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,96,2,13.8,53,25,38,159
+2023-05-21,Royal Challengers Bangalore,Kolkata Knight Riders,M. Chinnaswamy Stadium,161,0,19.2,85,52,38,169
+2023-04-22,Gujarat Titans,Kolkata Knight Riders,Wankhede Stadium,87,4,14.3,37,28,36,126
+2023-05-06,Lucknow Super Giants,Mumbai Indians,Eden Gardens,65,2,7.8,21,30,36,166
+2023-05-27,Punjab Kings,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,170,0,18.5,71,72,49,193
+2023-05-26,Punjab Kings,Chennai Super Kings,Eden Gardens,74,0,9.1,26,32,44,183
+2023-04-19,Punjab Kings,Mumbai Indians,M. Chinnaswamy Stadium,94,3,11.0,39,41,45,180
+2023-04-12,Chennai Super Kings,Sunrisers Hyderabad,Sawai Mansingh Stadium,45,1,5.4,18,15,45,201
+2023-04-06,Gujarat Titans,Royal Challengers Bangalore,Arun Jaitley Stadium,89,7,15.5,31,32,23,120
+2023-05-26,Mumbai Indians,Chennai Super Kings,Sawai Mansingh Stadium,102,4,16.1,39,45,28,131
+2023-05-12,Chennai Super Kings,Delhi Capitals,Eden Gardens,54,0,7.3,20,23,36,150
+2023-04-18,Lucknow Super Giants,Kolkata Knight Riders,Eden Gardens,41,2,6.0,19,9,28,127
+2023-05-15,Lucknow Super Giants,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,86,2,10.2,40,31,54,197
+2023-05-22,Sunrisers Hyderabad,Chennai Super Kings,Punjab Cricket Association Stadium,71,3,9.5,34,17,35,148
+2023-04-21,Punjab Kings,Sunrisers Hyderabad,Punjab Cricket Association Stadium,39,1,5.4,16,17,35,151
+2023-05-15,Chennai Super Kings,Punjab Kings,Sawai Mansingh Stadium,97,4,14.4,44,31,36,147
+2023-05-22,Lucknow Super Giants,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,94,2,13.2,33,45,45,163
+2023-04-29,Punjab Kings,Gujarat Titans,M. A. Chidambaram Stadium,118,2,16.9,58,38,38,153
+2023-04-03,Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,169,0,17.9,65,68,52,201
+2023-04-19,Lucknow Super Giants,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,111,5,15.4,50,40,44,158
+2023-04-03,Mumbai Indians,Gujarat Titans,Narendra Modi Stadium,54,2,6.6,23,21,39,161
+2023-05-12,Royal Challengers Bangalore,Sunrisers Hyderabad,Eden Gardens,61,3,7.7,23,24,49,164
+2023-04-09,Sunrisers Hyderabad,Rajasthan Royals,Eden Gardens,52,3,6.2,29,14,46,196
+2023-04-24,Punjab Kings,Kolkata Knight Riders,Eden Gardens,107,0,11.2,44,35,48,241
+2023-05-06,Sunrisers Hyderabad,Punjab Kings,M. A. Chidambaram Stadium,72,5,13.4,38,19,31,115
+2023-05-09,Chennai Super Kings,Kolkata Knight Riders,Punjab Cricket Association Stadium,121,1,14.1,57,41,53,186
+2023-05-27,Sunrisers Hyderabad,Punjab Kings,Rajiv Gandhi International Cricket Stadium,63,2,10.1,34,20,36,142
+2023-04-10,Lucknow Super Giants,Mumbai Indians,M. Chinnaswamy Stadium,128,0,16.7,67,35,36,159
+2023-03-31,Chennai Super Kings,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,84,7,15.7,33,38,23,107
+2023-04-09,Lucknow Super Giants,Royal Challengers Bangalore,Punjab Cricket Association Stadium,94,6,15.9,43,30,26,121
+2023-05-18,Chennai Super Kings,Mumbai Indians,Eden Gardens,84,3,11.7,39,31,35,147
+2023-05-25,Rajasthan Royals,Mumbai Indians,M. Chinnaswamy Stadium,107,7,18.4,59,27,24,117
+2023-05-09,Delhi Capitals,Punjab Kings,M. Chinnaswamy Stadium,75,0,8.9,35,23,39,185
+2023-05-13,Royal Challengers Bangalore,Punjab Kings,Sawai Mansingh Stadium,44,0,5.2,13,18,44,188
+2023-04-01,Lucknow Super Giants,Chennai Super Kings,Wankhede Stadium,163,3,18.6,59,77,54,182
+2023-05-06,Royal Challengers Bangalore,Chennai Super Kings,Eden Gardens,61,3,8.7,33,14,42,169
+2023-04-16,Royal Challengers Bangalore,Chennai Super Kings,M. Chinnaswamy Stadium,115,6,16.3,55,30,31,142
+2023-04-25,Royal Challengers Bangalore,Sunrisers Hyderabad,M. A. Chidambaram Stadium,48,3,7.1,26,16,28,122
+2023-04-28,Mumbai Indians,Sunrisers Hyderabad,Eden Gardens,147,0,14.5,67,43,63,238
+2023-05-01,Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,122,1,17.2,70,38,37,157
+2023-05-13,Delhi Capitals,Rajasthan Royals,Wankhede Stadium,124,1,14.2,62,33,51,190
+2023-04-24,Kolkata Knight Riders,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,123,5,18.0,44,52,28,138
+2023-04-24,Chennai Super Kings,Gujarat Titans,M. Chinnaswamy Stadium,93,6,12.2,32,32,37,150
+2023-05-11,Gujarat Titans,Sunrisers Hyderabad,Sawai Mansingh Stadium,57,1,7.2,24,16,41,193
+2023-04-08,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,150,1,18.1,79,43,35,171
+2023-05-21,Kolkata Knight Riders,Rajasthan Royals,Narendra Modi Stadium,104,6,16.8,37,47,37,134
+2023-04-21,Chennai Super Kings,Lucknow Super Giants,M. Chinnaswamy Stadium,48,3,7.0,16,18,38,157
+2023-04-24,Royal Challengers Bangalore,Mumbai Indians,Punjab Cricket Association Stadium,45,0,6.2,24,12,36,171
+2023-04-13,Royal Challengers Bangalore,Delhi Capitals,Sawai Mansingh Stadium,109,1,11.5,35,42,50,246
+2023-04-22,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,87,0,8.4,47,24,67,249
+2023-04-13,Delhi Capitals,Mumbai Indians,Arun Jaitley Stadium,57,1,6.6,20,24,49,191
+2023-04-27,Delhi Capitals,Punjab Kings,Dr. DY Patil Sports Academy,87,7,16.7,34,42,31,108
+2023-05-16,Sunrisers Hyderabad,Punjab Kings,Rajiv Gandhi International Cricket Stadium,49,2,7.9,17,19,31,119
+2023-05-07,Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,43,3,7.1,15,18,30,108
+2023-05-06,Mumbai Indians,Delhi Capitals,Eden Gardens,45,3,6.6,23,11,37,166
+2023-04-10,Lucknow Super Giants,Gujarat Titans,Arun Jaitley Stadium,44,3,6.3,18,16,28,138
+2023-04-27,Lucknow Super Giants,Kolkata Knight Riders,Dr. DY Patil Sports Academy,119,9,18.7,58,25,37,128
+2023-05-21,Chennai Super Kings,Sunrisers Hyderabad,Punjab Cricket Association Stadium,64,4,8.5,23,26,37,140
+2023-05-12,Delhi Capitals,Royal Challengers Bangalore,Punjab Cricket Association Stadium,163,0,17.4,72,46,41,201
+2023-03-31,Chennai Super Kings,Rajasthan Royals,Narendra Modi Stadium,91,2,12.7,45,35,42,166
+2023-05-17,Mumbai Indians,Gujarat Titans,Narendra Modi Stadium,142,1,17.9,51,49,44,171
+2023-04-08,Punjab Kings,Kolkata Knight Riders,Sawai Mansingh Stadium,55,3,6.6,29,18,49,202
+2023-05-02,Rajasthan Royals,Delhi Capitals,Wankhede Stadium,49,1,5.9,22,19,44,218
+2023-04-23,Chennai Super Kings,Kolkata Knight Riders,Punjab Cricket Association Stadium,48,3,6.3,18,24,36,165
+2023-05-03,Mumbai Indians,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,130,8,19.1,63,38,27,135
+2023-05-23,Gujarat Titans,Punjab Kings,Rajiv Gandhi International Cricket Stadium,83,5,13.4,41,26,38,128
+2023-05-20,Delhi Capitals,Royal Challengers Bangalore,M. Chinnaswamy Stadium,79,2,8.3,28,27,49,225
+2023-04-18,Royal Challengers Bangalore,Lucknow Super Giants,Eden Gardens,53,0,7.3,18,20,32,143
+2023-04-22,Royal Challengers Bangalore,Punjab Kings,Punjab Cricket Association Stadium,99,1,12.8,47,22,45,187
+2023-05-17,Gujarat Titans,Lucknow Super Giants,Narendra Modi Stadium,90,4,14.4,55,24,34,137
+2023-04-28,Punjab Kings,Chennai Super Kings,Punjab Cricket Association Stadium,138,2,18.1,56,40,34,155
+2023-04-12,Lucknow Super Giants,Gujarat Titans,Arun Jaitley Stadium,85,4,16.3,44,29,33,114
+2023-05-08,Lucknow Super Giants,Gujarat Titans,Wankhede Stadium,123,5,18.2,49,46,27,135
+2023-05-05,Chennai Super Kings,Kolkata Knight Riders,Punjab Cricket Association Stadium,98,6,15.8,58,26,31,127
+2023-04-05,Royal Challengers Bangalore,Kolkata Knight Riders,M. Chinnaswamy Stadium,92,4,11.9,51,30,32,162
+2023-05-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Arun Jaitley Stadium,48,3,7.7,20,21,34,139
+2023-05-20,Mumbai Indians,Royal Challengers Bangalore,M. Chinnaswamy Stadium,70,3,9.4,24,28,46,164
+2023-05-01,Chennai Super Kings,Punjab Kings,Dr. DY Patil Sports Academy,99,3,12.0,47,30,35,178
+2023-04-10,Lucknow Super Giants,Mumbai Indians,Eden Gardens,65,1,9.6,29,20,43,147
+2023-04-04,Gujarat Titans,Kolkata Knight Riders,Eden Gardens,130,2,16.1,68,44,38,170
+2023-05-07,Punjab Kings,Royal Challengers Bangalore,Wankhede Stadium,57,2,7.0,29,14,34,146
+2023-05-27,Gujarat Titans,Lucknow Super Giants,Sawai Mansingh Stadium,126,1,15.3,40,51,33,173
+2023-04-28,Lucknow Super Giants,Gujarat Titans,Narendra Modi Stadium,50,2,7.5,24,12,29,120
+2023-04-05,Rajasthan Royals,Chennai Super Kings,M. A. Chidambaram Stadium,39,1,5.3,17,10,39,153
+2023-04-04,Delhi Capitals,Mumbai Indians,M. A. Chidambaram Stadium,106,3,16.3,36,52,28,135
+2023-04-22,Royal Challengers Bangalore,Gujarat Titans,Dr. DY Patil Sports Academy,55,4,8.5,26,20,37,148
+2023-03-31,Chennai Super Kings,Kolkata Knight Riders,Sawai Mansingh Stadium,101,7,17.3,54,24,26,115
+2023-04-14,Rajasthan Royals,Chennai Super Kings,Narendra Modi Stadium,56,0,6.8,21,22,48,186
+2023-04-29,Lucknow Super Giants,Delhi Capitals,Punjab Cricket Association Stadium,58,3,8.3,18,24,42,152
+2023-05-13,Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,68,5,11.4,32,20,38,137
+2023-04-23,Kolkata Knight Riders,Punjab Kings,Arun Jaitley Stadium,90,3,13.6,36,39,38,148
+2023-05-11,Rajasthan Royals,Punjab Kings,Punjab Cricket Association Stadium,97,6,14.7,37,32,28,132
+2023-04-01,Chennai Super Kings,Mumbai Indians,M. A. Chidambaram Stadium,112,0,12.2,41,51,51,206
+2023-05-19,Sunrisers Hyderabad,Lucknow Super Giants,Arun Jaitley Stadium,59,3,9.3,29,15,34,140
+2023-05-28,Chennai Super Kings,Rajasthan Royals,Punjab Cricket Association Stadium,62,3,9.6,27,18,38,142
+2023-04-19,Rajasthan Royals,Sunrisers Hyderabad,M. A. Chidambaram Stadium,97,3,13.2,42,36,45,163
+2023-04-24,Lucknow Super Giants,Punjab Kings,M. Chinnaswamy Stadium,81,0,9.6,40,22,46,202
+2023-04-27,Punjab Kings,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,58,5,10.1,18,25,32,123
+2023-05-04,Punjab Kings,Mumbai Indians,Punjab Cricket Association Stadium,97,6,14.5,44,28,36,143
+2023-05-06,Chennai Super Kings,Sunrisers Hyderabad,M. A. Chidambaram Stadium,100,3,15.0,42,42,36,147
+2023-05-24,Chennai Super Kings,Gujarat Titans,Arun Jaitley Stadium,72,0,9.2,36,25,50,192
+2023-04-17,Chennai Super Kings,Gujarat Titans,Punjab Cricket Association Stadium,96,2,11.2,46,26,43,175
+2023-05-09,Gujarat Titans,Sunrisers Hyderabad,Sawai Mansingh Stadium,65,0,7.6,26,21,48,217
+2023-05-10,Gujarat Titans,Rajasthan Royals,Dr. DY Patil Sports Academy,125,0,15.5,40,50,46,179
+2023-05-23,Chennai Super Kings,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,67,2,8.9,28,26,32,148
+2023-04-29,Sunrisers Hyderabad,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,79,0,11.1,35,20,33,152
+2023-05-16,Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,135,1,17.5,66,30,48,169
+2023-05-23,Royal Challengers Bangalore,Kolkata Knight Riders,M. A. Chidambaram Stadium,101,4,13.3,59,27,48,166
+2023-04-07,Punjab Kings,Lucknow Super Giants,Dr. DY Patil Sports Academy,123,3,15.7,41,47,36,163
+2023-05-04,Punjab Kings,Chennai Super Kings,Narendra Modi Stadium,110,3,12.9,65,30,41,178
+2023-05-27,Lucknow Super Giants,Mumbai Indians,Wankhede Stadium,103,3,15.0,52,33,43,154
+2023-04-28,Rajasthan Royals,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,124,4,18.4,51,53,41,137
+2023-05-21,Rajasthan Royals,Mumbai Indians,M. Chinnaswamy Stadium,107,7,17.6,57,35,37,129
+2023-05-02,Chennai Super Kings,Punjab Kings,Rajiv Gandhi International Cricket Stadium,80,6,13.7,42,24,32,123
+2023-03-31,Rajasthan Royals,Kolkata Knight Riders,M. Chinnaswamy Stadium,71,0,9.5,37,22,42,168
+2023-05-30,Punjab Kings,Sunrisers Hyderabad,Punjab Cricket Association Stadium,134,2,17.7,74,41,34,155
+2023-05-30,Lucknow Super Giants,Kolkata Knight Riders,Wankhede Stadium,125,8,18.7,76,33,30,133
+2023-04-27,Lucknow Super Giants,Delhi Capitals,Eden Gardens,42,2,6.3,16,13,40,172
+2023-04-14,Kolkata Knight Riders,Lucknow Super Giants,M. Chinnaswamy Stadium,69,3,9.2,23,27,45,159
+2023-05-20,Royal Challengers Bangalore,Mumbai Indians,M. Chinnaswamy Stadium,171,3,19.2,80,52,46,179
+2023-05-14,Rajasthan Royals,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,88,4,15.3,42,20,30,129
+2023-05-21,Lucknow Super Giants,Mumbai Indians,Wankhede Stadium,65,4,8.7,23,30,47,145
+2023-05-01,Punjab Kings,Sunrisers Hyderabad,Eden Gardens,38,3,6.3,11,15,38,159
+2023-04-18,Delhi Capitals,Lucknow Super Giants,Sawai Mansingh Stadium,77,1,9.5,29,36,49,184
+2023-04-09,Mumbai Indians,Kolkata Knight Riders,Eden Gardens,41,1,5.5,19,9,39,191
+2023-04-29,Sunrisers Hyderabad,Chennai Super Kings,Eden Gardens,48,0,6.8,26,15,43,170
+2023-03-31,Gujarat Titans,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,143,3,18.3,51,74,44,163
+2023-05-30,Chennai Super Kings,Punjab Kings,Eden Gardens,49,1,5.4,26,12,49,222
+2023-05-30,Sunrisers Hyderabad,Punjab Kings,Dr. DY Patil Sports Academy,59,0,6.9,31,19,46,193
+2023-04-15,Rajasthan Royals,Chennai Super Kings,Wankhede Stadium,133,2,17.4,75,34,33,160
+2023-05-28,Delhi Capitals,Royal Challengers Bangalore,Narendra Modi Stadium,91,5,14.7,43,36,33,136
+2023-05-09,Royal Challengers Bangalore,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,58,2,6.3,29,18,58,206
+2023-04-29,Rajasthan Royals,Chennai Super Kings,Punjab Cricket Association Stadium,74,1,9.4,29,26,43,190
+2023-05-02,Rajasthan Royals,Lucknow Super Giants,M. A. Chidambaram Stadium,67,5,11.7,21,28,30,121
+2023-04-11,Rajasthan Royals,Mumbai Indians,M. A. Chidambaram Stadium,62,5,11.0,29,19,31,135
+2023-04-11,Kolkata Knight Riders,Royal Challengers Bangalore,M. A. Chidambaram Stadium,106,4,15.8,34,51,29,138
+2023-05-25,Lucknow Super Giants,Sunrisers Hyderabad,M. Chinnaswamy Stadium,108,5,14.0,57,32,32,151
+2023-05-14,Kolkata Knight Riders,Mumbai Indians,Arun Jaitley Stadium,97,1,12.0,50,29,36,168
+2023-04-01,Chennai Super Kings,Royal Challengers Bangalore,Eden Gardens,106,7,15.7,53,39,30,137
+2023-03-31,Chennai Super Kings,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,107,8,17.3,46,37,36,134
+2023-04-14,Mumbai Indians,Gujarat Titans,Wankhede Stadium,91,2,11.1,50,25,35,178
+2023-04-27,Mumbai Indians,Royal Challengers Bangalore,M. Chinnaswamy Stadium,93,7,15.5,46,22,29,126
+2023-04-08,Delhi Capitals,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,122,5,17.1,62,43,33,146
+2023-04-12,Royal Challengers Bangalore,Sunrisers Hyderabad,M. A. Chidambaram Stadium,86,7,16.5,24,36,32,108
+2023-05-27,Gujarat Titans,Mumbai Indians,M. A. Chidambaram Stadium,75,0,9.9,26,29,36,154
+2023-04-17,Royal Challengers Bangalore,Gujarat Titans,Dr. DY Patil Sports Academy,142,0,14.7,73,39,41,203
+2023-05-30,Chennai Super Kings,Gujarat Titans,Wankhede Stadium,121,1,12.4,47,59,46,211
+2023-04-06,Royal Challengers Bangalore,Punjab Kings,Narendra Modi Stadium,152,1,16.9,75,43,41,189
+2023-04-05,Delhi Capitals,Punjab Kings,Rajiv Gandhi International Cricket Stadium,61,5,10.2,31,17,26,131
+2023-05-30,Gujarat Titans,Punjab Kings,Wankhede Stadium,108,0,11.4,38,38,47,209
+2023-04-02,Royal Challengers Bangalore,Mumbai Indians,Sawai Mansingh Stadium,117,6,19.1,46,48,36,123
+2023-05-03,Lucknow Super Giants,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,103,1,11.5,45,39,43,207
+2023-05-26,Delhi Capitals,Chennai Super Kings,Wankhede Stadium,108,3,12.8,54,23,39,170
+2023-05-18,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,115,8,17.9,60,37,41,128
+2023-05-10,Gujarat Titans,Punjab Kings,M. A. Chidambaram Stadium,45,2,5.7,14,21,39,161
+2023-05-15,Gujarat Titans,Kolkata Knight Riders,Narendra Modi Stadium,67,4,9.3,25,28,34,143
+2023-04-06,Royal Challengers Bangalore,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,49,0,6.2,15,20,45,200
+2023-05-25,Delhi Capitals,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,117,7,19.4,47,38,31,122
+2023-05-03,Chennai Super Kings,Kolkata Knight Riders,Punjab Cricket Association Stadium,69,5,11.9,26,34,35,120
+2023-05-03,Royal Challengers Bangalore,Chennai Super Kings,Narendra Modi Stadium,69,2,9.4,26,33,40,171
+2023-04-13,Royal Challengers Bangalore,Sunrisers Hyderabad,Wankhede Stadium,46,2,6.8,18,18,35,159
+2023-05-23,Lucknow Super Giants,Royal Challengers Bangalore,Eden Gardens,96,3,12.3,43,26,33,164
+2023-05-27,Rajasthan Royals,Punjab Kings,Sawai Mansingh Stadium,49,2,5.7,26,13,49,219
+2023-05-05,Chennai Super Kings,Gujarat Titans,M. A. Chidambaram Stadium,73,0,7.8,34,27,38,214
+2023-04-17,Kolkata Knight Riders,Lucknow Super Giants,Dr. DY Patil Sports Academy,78,4,11.4,36,18,28,143
+2023-04-20,Rajasthan Royals,Delhi Capitals,M. A. Chidambaram Stadium,51,0,6.7,23,13,33,165
+2023-04-20,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,82,0,9.3,32,30,53,198
+2023-05-07,Kolkata Knight Riders,Sunrisers Hyderabad,Sawai Mansingh Stadium,102,6,15.9,44,33,26,131
+2023-04-01,Delhi Capitals,Gujarat Titans,Dr. DY Patil Sports Academy,115,3,14.8,47,35,39,166
+2023-04-09,Punjab Kings,Gujarat Titans,Eden Gardens,123,8,16.3,41,58,45,163
+2023-04-10,Mumbai Indians,Lucknow Super Giants,Punjab Cricket Association Stadium,75,2,9.0,34,23,46,186
+2023-05-06,Chennai Super Kings,Delhi Capitals,M. A. Chidambaram Stadium,101,0,10.7,60,30,42,224
+2023-05-30,Punjab Kings,Delhi Capitals,Punjab Cricket Association Stadium,67,2,9.0,22,32,42,162
+2023-05-27,Mumbai Indians,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,95,5,13.1,48,27,41,151
+2023-05-12,Sunrisers Hyderabad,Chennai Super Kings,Narendra Modi Stadium,117,6,19.1,54,31,35,124
+2023-04-28,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,110,5,16.0,58,32,31,145
+2023-05-01,Lucknow Super Giants,Kolkata Knight Riders,Wankhede Stadium,50,3,7.8,18,21,29,135
+2023-04-11,Chennai Super Kings,Royal Challengers Bangalore,M. A. Chidambaram Stadium,62,1,6.8,30,16,37,209
+2023-05-13,Gujarat Titans,Sunrisers Hyderabad,Wankhede Stadium,176,0,18.6,79,73,40,194
+2023-04-02,Kolkata Knight Riders,Mumbai Indians,M. Chinnaswamy Stadium,105,8,18.3,32,44,31,118
+2023-04-27,Chennai Super Kings,Kolkata Knight Riders,Arun Jaitley Stadium,48,2,7.4,17,15,26,151
+2023-04-15,Chennai Super Kings,Sunrisers Hyderabad,Arun Jaitley Stadium,171,0,18.9,53,73,49,185
+2023-04-07,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,59,5,10.5,27,24,26,112
+2023-05-05,Mumbai Indians,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,76,4,10.8,37,25,28,154
+2023-05-09,Chennai Super Kings,Punjab Kings,Wankhede Stadium,91,2,11.6,39,24,43,189
+2023-05-02,Delhi Capitals,Punjab Kings,Rajiv Gandhi International Cricket Stadium,73,4,12.0,26,36,29,133
+2023-04-19,Lucknow Super Giants,Gujarat Titans,Eden Gardens,52,2,7.1,25,20,41,163
+2023-05-05,Mumbai Indians,Rajasthan Royals,Narendra Modi Stadium,63,1,7.8,20,24,42,198
+2023-05-24,Lucknow Super Giants,Punjab Kings,Dr. DY Patil Sports Academy,61,2,9.3,21,30,30,118
+2023-05-09,Kolkata Knight Riders,Lucknow Super Giants,Punjab Cricket Association Stadium,106,5,15.7,53,29,27,135
+2023-04-09,Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,65,5,14.2,21,26,28,99
+2023-04-11,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,124,1,17.2,61,34,30,150
+2023-05-21,Punjab Kings,Royal Challengers Bangalore,Sawai Mansingh Stadium,140,9,19.2,44,55,46,146
+2023-04-23,Punjab Kings,Rajasthan Royals,Arun Jaitley Stadium,119,9,18.4,40,50,30,128
+2023-05-02,Lucknow Super Giants,Sunrisers Hyderabad,Arun Jaitley Stadium,96,7,15.5,36,34,38,132
+2023-04-11,Punjab Kings,Lucknow Super Giants,Sawai Mansingh Stadium,93,7,15.1,49,27,34,133
+2023-04-15,Rajasthan Royals,Kolkata Knight Riders,M. Chinnaswamy Stadium,94,3,11.2,41,31,36,165
+2023-05-07,Mumbai Indians,Sunrisers Hyderabad,Sawai Mansingh Stadium,83,6,14.0,35,28,27,112
+2023-04-04,Punjab Kings,Chennai Super Kings,M. Chinnaswamy Stadium,105,8,17.2,37,42,26,121
+2023-05-13,Punjab Kings,Delhi Capitals,M. Chinnaswamy Stadium,111,4,15.8,53,27,41,153
+2023-04-18,Punjab Kings,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,147,0,16.9,55,69,43,183
+2023-05-03,Lucknow Super Giants,Gujarat Titans,Punjab Cricket Association Stadium,78,7,15.5,35,31,32,108
+2023-04-01,Punjab Kings,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,125,4,17.7,70,37,34,144
+2023-05-19,Gujarat Titans,Delhi Capitals,Narendra Modi Stadium,104,4,13.5,52,23,37,162
+2023-05-25,Rajasthan Royals,Lucknow Super Giants,Arun Jaitley Stadium,134,1,18.8,55,41,36,146
+2023-05-05,Royal Challengers Bangalore,Mumbai Indians,Dr. DY Patil Sports Academy,99,1,12.1,35,41,38,173
+2023-03-31,Royal Challengers Bangalore,Punjab Kings,Rajiv Gandhi International Cricket Stadium,82,0,10.7,35,33,48,186
+2023-05-22,Sunrisers Hyderabad,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,101,2,13.3,40,43,30,148
+2023-05-21,Kolkata Knight Riders,Gujarat Titans,Narendra Modi Stadium,109,7,18.2,44,47,37,124
+2023-04-19,Rajasthan Royals,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,60,4,8.6,24,28,37,152
+2023-05-25,Royal Challengers Bangalore,Delhi Capitals,Sawai Mansingh Stadium,88,0,9.2,35,29,62,225
+2023-04-06,Gujarat Titans,Punjab Kings,Rajiv Gandhi International Cricket Stadium,70,2,11.5,29,20,34,138
+2023-04-12,Rajasthan Royals,Mumbai Indians,Wankhede Stadium,73,1,8.6,24,33,45,190
+2023-05-22,Delhi Capitals,Royal Challengers Bangalore,Eden Gardens,112,1,17.2,42,52,37,136
+2023-04-11,Kolkata Knight Riders,Mumbai Indians,Sawai Mansingh Stadium,80,0,8.1,40,25,62,215
+2023-03-31,Mumbai Indians,Rajasthan Royals,Arun Jaitley Stadium,123,5,18.5,35,51,26,134
+2023-05-26,Chennai Super Kings,Royal Challengers Bangalore,Eden Gardens,36,2,5.6,13,15,29,132
+2023-04-13,Chennai Super Kings,Punjab Kings,Narendra Modi Stadium,51,3,7.5,17,20,38,142
+2023-05-26,Kolkata Knight Riders,Rajasthan Royals,M. Chinnaswamy Stadium,108,7,16.1,60,26,41,144
+2023-05-10,Rajasthan Royals,Royal Challengers Bangalore,Narendra Modi Stadium,65,2,7.5,18,27,55,206
+2023-05-02,Lucknow Super Giants,Mumbai Indians,Arun Jaitley Stadium,41,0,5.3,20,14,32,149
+2023-04-13,Mumbai Indians,Kolkata Knight Riders,Dr. DY Patil Sports Academy,121,7,19.3,54,37,37,127
+2023-04-18,Mumbai Indians,Kolkata Knight Riders,Narendra Modi Stadium,90,1,10.0,35,39,51,226
+2023-04-20,Royal Challengers Bangalore,Sunrisers Hyderabad,Wankhede Stadium,44,1,5.9,16,20,33,152
+2023-05-29,Kolkata Knight Riders,Lucknow Super Giants,Sawai Mansingh Stadium,43,3,6.1,14,17,33,137
+2023-04-17,Sunrisers Hyderabad,Chennai Super Kings,Narendra Modi Stadium,82,1,10.8,35,31,33,177
+2023-04-27,Chennai Super Kings,Delhi Capitals,Dr. DY Patil Sports Academy,88,4,12.8,37,32,34,133
+2023-04-30,Kolkata Knight Riders,Royal Challengers Bangalore,Arun Jaitley Stadium,39,2,5.1,15,14,38,155
+2023-05-07,Chennai Super Kings,Rajasthan Royals,Wankhede Stadium,167,1,19.4,65,57,40,174
+2023-05-01,Punjab Kings,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,114,3,18.4,57,40,35,129
+2023-04-29,Royal Challengers Bangalore,Delhi Capitals,Arun Jaitley Stadium,86,5,13.7,43,29,39,140
+2023-05-03,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,122,4,17.0,65,32,39,159
+2023-05-25,Chennai Super Kings,Lucknow Super Giants,Dr. DY Patil Sports Academy,108,5,16.3,50,30,38,136
+2023-04-06,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadium,84,2,11.0,39,25,34,163
+2023-05-22,Kolkata Knight Riders,Royal Challengers Bangalore,Arun Jaitley Stadium,49,0,5.9,29,14,43,211
+2023-04-05,Delhi Capitals,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,54,0,6.8,25,17,33,150
+2023-05-07,Mumbai Indians,Chennai Super Kings,Arun Jaitley Stadium,102,0,12.6,43,47,42,195
+2023-05-13,Punjab Kings,Lucknow Super Giants,Arun Jaitley Stadium,96,6,18.6,36,37,22,104
+2023-05-26,Royal Challengers Bangalore,Mumbai Indians,Dr. DY Patil Sports Academy,63,2,6.8,25,21,53,231
+2023-03-31,Punjab Kings,Mumbai Indians,Narendra Modi Stadium,115,5,17.7,56,34,39,139
+2023-04-30,Chennai Super Kings,Rajasthan Royals,M. Chinnaswamy Stadium,86,5,13.8,46,24,33,133
+2023-05-13,Gujarat Titans,Sunrisers Hyderabad,Eden Gardens,141,1,18.0,47,57,49,166
+2023-04-01,Royal Challengers Bangalore,Punjab Kings,Rajiv Gandhi International Cricket Stadium,131,3,16.1,70,46,46,184
+2023-05-20,Punjab Kings,Kolkata Knight Riders,Dr. DY Patil Sports Academy,135,1,16.1,70,43,41,183
+2023-05-21,Kolkata Knight Riders,Lucknow Super Giants,M. Chinnaswamy Stadium,53,0,6.7,19,23,50,181
+2023-04-24,Lucknow Super Giants,Mumbai Indians,M. Chinnaswamy Stadium,42,2,5.9,20,12,42,173
+2023-05-07,Kolkata Knight Riders,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,41,1,5.1,14,16,41,188
+2023-05-24,Mumbai Indians,Punjab Kings,M. Chinnaswamy Stadium,86,5,12.3,39,33,42,155
+2023-05-21,Punjab Kings,Royal Challengers Bangalore,Arun Jaitley Stadium,119,3,17.3,47,56,36,151
+2023-05-24,Royal Challengers Bangalore,Mumbai Indians,Sawai Mansingh Stadium,91,3,10.7,40,37,45,192
+2023-05-24,Gujarat Titans,Rajasthan Royals,M. A. Chidambaram Stadium,63,0,6.9,22,27,39,184
+2023-04-13,Kolkata Knight Riders,Mumbai Indians,Narendra Modi Stadium,145,1,15.5,72,33,47,218
+2023-04-30,Royal Challengers Bangalore,Mumbai Indians,M. A. Chidambaram Stadium,136,5,19.2,58,53,29,142
+2023-04-11,Rajasthan Royals,Chennai Super Kings,Punjab Cricket Association Stadium,97,6,17.5,32,42,23,113
+2023-04-01,Lucknow Super Giants,Sunrisers Hyderabad,M. Chinnaswamy Stadium,130,1,15.1,61,42,43,175
+2023-05-28,Gujarat Titans,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,142,0,16.8,68,53,35,184
+2023-05-11,Chennai Super Kings,Kolkata Knight Riders,M. A. Chidambaram Stadium,50,1,7.6,15,22,35,145
+2023-05-18,Mumbai Indians,Chennai Super Kings,M. A. Chidambaram Stadium,99,2,12.3,52,35,37,174
+2023-04-18,Gujarat Titans,Sunrisers Hyderabad,Eden Gardens,84,5,13.4,43,31,33,135
+2023-04-02,Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,156,3,17.4,58,57,38,180
+2023-04-24,Royal Challengers Bangalore,Rajasthan Royals,Punjab Cricket Association Stadium,55,2,6.2,18,21,50,210
+2023-05-15,Punjab Kings,Gujarat Titans,Dr. DY Patil Sports Academy,61,1,7.4,32,14,38,169
+2023-04-26,Chennai Super Kings,Punjab Kings,M. A. Chidambaram Stadium,77,2,10.3,31,34,31,170
+2023-05-20,Chennai Super Kings,Royal Challengers Bangalore,Sawai Mansingh Stadium,116,4,15.6,42,41,40,155
+2023-04-03,Royal Challengers Bangalore,Punjab Kings,Rajiv Gandhi International Cricket Stadium,51,3,7.6,19,15,30,129
+2023-04-03,Punjab Kings,Kolkata Knight Riders,Dr. DY Patil Sports Academy,82,3,11.1,38,31,34,166
+2023-05-22,Kolkata Knight Riders,Delhi Capitals,M. A. Chidambaram Stadium,124,6,18.7,43,59,30,132
+2023-04-18,Gujarat Titans,Sunrisers Hyderabad,Wankhede Stadium,135,6,19.0,53,44,40,144
+2023-03-31,Lucknow Super Giants,Kolkata Knight Riders,Wankhede Stadium,100,5,15.4,57,31,40,144
+2023-04-10,Gujarat Titans,Kolkata Knight Riders,Eden Gardens,52,1,6.1,20,19,42,168
+2023-05-04,Chennai Super Kings,Delhi Capitals,M. Chinnaswamy Stadium,96,2,12.0,36,41,38,184
+2023-04-02,Sunrisers Hyderabad,Lucknow Super Giants,Wankhede Stadium,69,4,10.2,25,24,39,144
+2023-04-12,Chennai Super Kings,Gujarat Titans,Sawai Mansingh Stadium,95,6,18.0,41,27,24,105
+2023-04-11,Gujarat Titans,Delhi Capitals,M. A. Chidambaram Stadium,93,7,19.3,37,36,29,96
+2023-04-25,Rajasthan Royals,Punjab Kings,Wankhede Stadium,76,1,7.3,29,38,54,237
+2023-05-18,Rajasthan Royals,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,57,0,6.9,17,26,47,194
+2023-05-08,Mumbai Indians,Rajasthan Royals,Punjab Cricket Association Stadium,59,3,9.2,30,18,28,117
+2023-05-14,Kolkata Knight Riders,Rajasthan Royals,Arun Jaitley Stadium,104,0,11.9,53,23,47,197
+2023-04-02,Delhi Capitals,Kolkata Knight Riders,Eden Gardens,72,4,11.2,31,24,37,146
+2023-04-03,Gujarat Titans,Rajasthan Royals,Wankhede Stadium,79,2,9.4,31,34,52,177
+2023-04-20,Kolkata Knight Riders,Delhi Capitals,Punjab Cricket Association Stadium,51,4,9.1,23,22,26,100
+2023-05-25,Royal Challengers Bangalore,Punjab Kings,Narendra Modi Stadium,112,5,15.7,43,48,33,141
+2023-05-10,Lucknow Super Giants,Chennai Super Kings,Wankhede Stadium,92,5,13.5,31,41,43,146
+2023-05-18,Kolkata Knight Riders,Gujarat Titans,Eden Gardens,48,0,5.6,26,15,48,206
+2023-05-10,Chennai Super Kings,Rajasthan Royals,M. A. Chidambaram Stadium,89,4,12.0,36,26,42,155
+2023-05-20,Kolkata Knight Riders,Rajasthan Royals,Punjab Cricket Association Stadium,114,1,14.9,56,32,38,152
+2023-04-13,Lucknow Super Giants,Mumbai Indians,Sawai Mansingh Stadium,72,5,11.6,30,32,29,119
+2023-04-18,Mumbai Indians,Royal Challengers Bangalore,M. Chinnaswamy Stadium,139,4,18.4,86,37,34,153
+2023-04-23,Punjab Kings,Chennai Super Kings,Sawai Mansingh Stadium,72,1,8.8,22,32,49,202
+2023-04-11,Delhi Capitals,Mumbai Indians,Sawai Mansingh Stadium,125,1,14.5,53,58,48,189
+2023-04-20,Delhi Capitals,Kolkata Knight Riders,Dr. DY Patil Sports Academy,69,6,14.1,29,28,30,97
+2023-05-25,Royal Challengers Bangalore,Kolkata Knight Riders,Dr. DY Patil Sports Academy,69,5,12.1,34,17,34,119
+2023-04-27,Kolkata Knight Riders,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,59,1,6.5,24,23,37,208
+2023-04-02,Royal Challengers Bangalore,Kolkata Knight Riders,M. A. Chidambaram Stadium,56,4,8.9,21,28,36,133
+2023-04-30,Lucknow Super Giants,Sunrisers Hyderabad,Eden Gardens,54,3,9.5,26,18,24,110
+2023-05-02,Rajasthan Royals,Royal Challengers Bangalore,Wankhede Stadium,147,0,18.2,55,58,50,174
+2023-05-27,Chennai Super Kings,Sunrisers Hyderabad,Eden Gardens,135,3,19.4,60,43,30,141
+2023-05-08,Royal Challengers Bangalore,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,79,4,12.7,42,27,34,138
+2023-05-01,Punjab Kings,Delhi Capitals,M. A. Chidambaram Stadium,125,2,16.4,48,42,45,171
+2023-04-27,Delhi Capitals,Royal Challengers Bangalore,M. A. Chidambaram Stadium,64,1,9.7,25,23,38,151
+2023-05-21,Kolkata Knight Riders,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,90,4,13.0,40,37,37,156
+2023-05-17,Kolkata Knight Riders,Chennai Super Kings,Arun Jaitley Stadium,83,1,10.2,46,21,51,192
+2023-05-25,Royal Challengers Bangalore,Delhi Capitals,Punjab Cricket Association Stadium,52,3,7.1,16,20,47,156
+2023-04-27,Punjab Kings,Mumbai Indians,M. A. Chidambaram Stadium,118,1,14.6,38,47,35,164
+2023-04-26,Royal Challengers Bangalore,Lucknow Super Giants,Punjab Cricket Association Stadium,114,4,15.8,53,36,29,144
+2023-05-08,Royal Challengers Bangalore,Gujarat Titans,Eden Gardens,48,1,5.2,25,13,48,229
+2023-04-10,Delhi Capitals,Chennai Super Kings,Sawai Mansingh Stadium,86,1,10.5,31,29,49,200
+2023-05-14,Sunrisers Hyderabad,Lucknow Super Giants,Narendra Modi Stadium,85,6,14.5,43,29,26,112
+2023-05-24,Punjab Kings,Mumbai Indians,Arun Jaitley Stadium,51,4,9.1,24,11,25,106
+2023-04-05,Lucknow Super Giants,Mumbai Indians,Dr. DY Patil Sports Academy,92,7,19.3,32,48,23,95
+2023-05-18,Rajasthan Royals,Punjab Kings,Eden Gardens,122,1,15.2,53,43,47,182
+2023-05-25,Mumbai Indians,Delhi Capitals,Eden Gardens,48,3,7.2,20,22,30,134
+2023-05-02,Gujarat Titans,Lucknow Super Giants,Narendra Modi Stadium,83,1,11.5,38,34,45,168
+2023-05-09,Lucknow Super Giants,Chennai Super Kings,Eden Gardens,73,3,13.2,30,31,34,131
+2023-04-29,Punjab Kings,Royal Challengers Bangalore,M. Chinnaswamy Stadium,61,2,7.3,26,16,43,225
+2023-04-28,Royal Challengers Bangalore,Chennai Super Kings,Dr. DY Patil Sports Academy,102,2,12.1,60,28,36,189
+2023-04-23,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadium,69,5,11.5,31,17,34,125
+2023-04-24,Royal Challengers Bangalore,Rajasthan Royals,M. A. Chidambaram Stadium,59,3,8.2,26,20,44,143
+2023-05-29,Rajasthan Royals,Lucknow Super Giants,Arun Jaitley Stadium,88,0,10.8,42,27,42,178
+2023-04-30,Royal Challengers Bangalore,Kolkata Knight Riders,Narendra Modi Stadium,90,4,13.2,49,28,44,139
+2023-05-18,Rajasthan Royals,Delhi Capitals,M. Chinnaswamy Stadium,103,1,14.2,48,24,37,163
+2023-04-11,Mumbai Indians,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,69,2,10.0,29,24,39,160
+2023-05-14,Lucknow Super Giants,Rajasthan Royals,Wankhede Stadium,89,4,13.1,32,40,38,162
+2023-05-16,Punjab Kings,Mumbai Indians,Eden Gardens,136,2,18.0,70,46,35,160
+2023-05-24,Royal Challengers Bangalore,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,53,1,6.4,28,16,45,175
+2023-05-13,Lucknow Super Giants,Mumbai Indians,Narendra Modi Stadium,125,0,16.8,47,60,39,165
+2023-05-23,Gujarat Titans,Rajasthan Royals,Sawai Mansingh Stadium,97,5,19.1,34,41,28,103
+2023-05-14,Rajasthan Royals,Delhi Capitals,Dr. DY Patil Sports Academy,177,1,18.6,75,51,52,199
+2023-05-29,Gujarat Titans,Chennai Super Kings,Punjab Cricket Association Stadium,58,6,12.3,21,24,24,98
+2023-04-07,Punjab Kings,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,93,6,18.2,33,35,31,106
+2023-04-26,Kolkata Knight Riders,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,41,0,5.5,22,12,41,205
+2023-04-15,Gujarat Titans,Rajasthan Royals,Arun Jaitley Stadium,109,3,13.9,38,49,44,179
+2023-05-03,Royal Challengers Bangalore,Rajasthan Royals,Arun Jaitley Stadium,52,1,6.4,29,15,45,203
+2023-04-13,Chennai Super Kings,Lucknow Super Giants,Wankhede Stadium,78,5,11.3,36,28,44,150
+2023-04-29,Punjab Kings,Royal Challengers Bangalore,Arun Jaitley Stadium,98,3,14.5,46,26,40,150
+2023-05-29,Royal Challengers Bangalore,Mumbai Indians,Dr. DY Patil Sports Academy,147,1,17.6,51,54,52,175
+2023-05-23,Kolkata Knight Riders,Rajasthan Royals,M. A. Chidambaram Stadium,96,0,12.1,36,42,40,181
+2023-04-10,Royal Challengers Bangalore,Delhi Capitals,Wankhede Stadium,132,9,18.1,48,47,35,146
+2023-05-03,Delhi Capitals,Chennai Super Kings,Arun Jaitley Stadium,74,4,13.8,35,18,23,104
+2023-05-16,Royal Challengers Bangalore,Delhi Capitals,M. Chinnaswamy Stadium,109,0,12.0,51,31,48,209
+2023-04-11,Kolkata Knight Riders,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,42,2,6.5,18,16,33,145
+2023-04-06,Lucknow Super Giants,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,57,2,7.9,18,22,29,144
+2023-05-22,Gujarat Titans,Punjab Kings,Rajiv Gandhi International Cricket Stadium,48,0,5.4,16,18,40,171
+2023-03-31,Punjab Kings,Mumbai Indians,Narendra Modi Stadium,66,4,8.1,27,25,45,167
+2023-05-08,Chennai Super Kings,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,61,2,9.6,20,28,29,123
+2023-05-07,Rajasthan Royals,Kolkata Knight Riders,Dr. DY Patil Sports Academy,48,0,5.3,29,14,43,215
+2023-05-28,Gujarat Titans,Mumbai Indians,Narendra Modi Stadium,118,1,14.3,45,47,39,169
+2023-05-01,Lucknow Super Giants,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,66,3,9.3,38,20,45,153
+2023-04-08,Chennai Super Kings,Punjab Kings,Rajiv Gandhi International Cricket Stadium,69,0,8.3,35,17,54,210
+2023-05-20,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,163,1,18.7,71,68,50,181
+2023-04-20,Royal Challengers Bangalore,Rajasthan Royals,Punjab Cricket Association Stadium,115,3,14.7,51,51,45,163
+2023-04-05,Punjab Kings,Gujarat Titans,Arun Jaitley Stadium,101,3,14.6,37,43,39,150
+2023-04-21,Kolkata Knight Riders,Gujarat Titans,Sawai Mansingh Stadium,130,4,17.4,48,64,32,154
+2023-05-09,Gujarat Titans,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,57,2,7.7,29,21,32,137
+2023-04-01,Sunrisers Hyderabad,Royal Challengers Bangalore,M. Chinnaswamy Stadium,42,2,5.4,17,13,38,148
+2023-04-21,Mumbai Indians,Sunrisers Hyderabad,M. Chinnaswamy Stadium,106,0,10.4,40,42,51,229
+2023-04-27,Chennai Super Kings,Mumbai Indians,Arun Jaitley Stadium,126,3,18.9,48,54,35,138
+2023-04-25,Rajasthan Royals,Lucknow Super Giants,M. A. Chidambaram Stadium,54,2,8.2,23,16,38,134
+2023-05-28,Lucknow Super Giants,Sunrisers Hyderabad,M. Chinnaswamy Stadium,124,3,17.4,45,45,36,155
+2023-04-01,Royal Challengers Bangalore,Delhi Capitals,M. A. Chidambaram Stadium,71,0,7.5,31,26,43,196
+2023-04-18,Kolkata Knight Riders,Gujarat Titans,Sawai Mansingh Stadium,59,1,7.4,25,25,42,190
+2023-04-16,Punjab Kings,Sunrisers Hyderabad,Wankhede Stadium,146,4,17.0,82,42,53,181
+2023-05-16,Mumbai Indians,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,119,2,17.4,59,37,34,139
+2023-04-24,Chennai Super Kings,Delhi Capitals,Sawai Mansingh Stadium,132,7,18.0,65,31,35,148
+2023-04-17,Delhi Capitals,Kolkata Knight Riders,Wankhede Stadium,87,5,13.4,36,31,42,147
+2023-05-01,Royal Challengers Bangalore,Sunrisers Hyderabad,Eden Gardens,106,2,12.6,39,41,50,174
+2023-05-07,Chennai Super Kings,Mumbai Indians,Punjab Cricket Association Stadium,69,3,9.4,21,27,45,177
+2023-05-05,Royal Challengers Bangalore,Chennai Super Kings,M. Chinnaswamy Stadium,67,1,7.1,20,29,60,218
+2023-04-25,Chennai Super Kings,Delhi Capitals,M. Chinnaswamy Stadium,126,1,13.7,55,41,52,199
+2023-04-19,Delhi Capitals,Chennai Super Kings,M. Chinnaswamy Stadium,82,5,13.2,45,24,26,127
+2023-05-13,Punjab Kings,Sunrisers Hyderabad,Narendra Modi Stadium,93,3,11.2,33,48,49,184
+2023-05-20,Kolkata Knight Riders,Gujarat Titans,Narendra Modi Stadium,48,2,6.8,20,13,36,179
+2023-04-05,Mumbai Indians,Delhi Capitals,M. A. Chidambaram Stadium,91,0,9.8,50,25,40,200
+2023-05-14,Kolkata Knight Riders,Gujarat Titans,Eden Gardens,91,3,13.1,33,41,39,170
+2023-05-09,Kolkata Knight Riders,Chennai Super Kings,M. A. Chidambaram Stadium,41,2,5.0,13,17,33,176
+2023-04-19,Rajasthan Royals,Sunrisers Hyderabad,Eden Gardens,92,8,16.9,43,29,23,104
+2023-05-17,Kolkata Knight Riders,Royal Challengers Bangalore,Sawai Mansingh Stadium,109,3,15.8,62,28,36,154
+2023-04-06,Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,52,2,7.1,17,18,41,169
+2023-05-28,Punjab Kings,Royal Challengers Bangalore,Punjab Cricket Association Stadium,111,7,17.8,56,29,33,129
+2023-04-04,Royal Challengers Bangalore,Lucknow Super Giants,Narendra Modi Stadium,100,5,14.5,46,26,39,150
+2023-04-30,Rajasthan Royals,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,82,4,14.6,36,36,31,119
+2023-04-10,Kolkata Knight Riders,Chennai Super Kings,M. A. Chidambaram Stadium,78,5,12.2,44,24,37,139
+2023-05-27,Rajasthan Royals,Lucknow Super Giants,M. A. Chidambaram Stadium,41,1,5.9,18,10,39,181
+2023-05-14,Sunrisers Hyderabad,Rajasthan Royals,Eden Gardens,106,9,19.3,51,33,25,109
+2023-05-20,Kolkata Knight Riders,Chennai Super Kings,Dr. DY Patil Sports Academy,33,2,5.4,9,14,33,148
+2023-05-13,Gujarat Titans,Sunrisers Hyderabad,Arun Jaitley Stadium,92,7,17.1,53,27,32,114
+2023-05-06,Chennai Super Kings,Royal Challengers Bangalore,Sawai Mansingh Stadium,72,0,9.3,23,34,47,181
+2023-04-22,Chennai Super Kings,Royal Challengers Bangalore,M. Chinnaswamy Stadium,63,1,6.1,26,24,43,210
+2023-05-28,Delhi Capitals,Mumbai Indians,Wankhede Stadium,78,2,9.9,25,29,48,187
+2023-04-03,Kolkata Knight Riders,Sunrisers Hyderabad,M. A. Chidambaram Stadium,120,0,16.7,58,35,45,158
+2023-05-16,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,112,1,12.2,55,29,59,201
+2023-05-21,Kolkata Knight Riders,Gujarat Titans,Dr. DY Patil Sports Academy,138,0,17.5,71,46,40,166
+2023-05-27,Lucknow Super Giants,Punjab Kings,Narendra Modi Stadium,58,3,7.8,16,24,37,158
+2023-04-02,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,51,1,6.1,22,16,51,201
+2023-05-12,Chennai Super Kings,Lucknow Super Giants,M. A. Chidambaram Stadium,53,4,8.6,30,15,38,130
+2023-05-05,Delhi Capitals,Kolkata Knight Riders,Sawai Mansingh Stadium,117,5,17.9,55,27,37,134
+2023-04-08,Gujarat Titans,Kolkata Knight Riders,M. Chinnaswamy Stadium,112,3,15.8,39,56,32,154
+2023-04-01,Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,70,3,9.0,32,17,38,143
+2023-04-14,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,118,0,14.6,68,32,50,187
+2023-04-16,Lucknow Super Giants,Kolkata Knight Riders,Wankhede Stadium,68,4,9.9,35,21,28,130
+2023-05-13,Delhi Capitals,Gujarat Titans,Punjab Cricket Association Stadium,70,5,11.1,26,24,37,133
+2023-05-21,Delhi Capitals,Chennai Super Kings,Arun Jaitley Stadium,95,4,16.2,39,38,33,132
+2023-04-07,Delhi Capitals,Punjab Kings,M. Chinnaswamy Stadium,105,7,17.3,57,25,31,124
+2023-05-30,Chennai Super Kings,Delhi Capitals,Dr. DY Patil Sports Academy,103,0,13.0,42,46,41,181
+2023-05-11,Mumbai Indians,Kolkata Knight Riders,M. A. Chidambaram Stadium,124,2,14.5,41,59,49,184
+2023-04-16,Mumbai Indians,Punjab Kings,Sawai Mansingh Stadium,100,3,15.4,43,35,29,136
+2023-04-26,Chennai Super Kings,Rajasthan Royals,M. Chinnaswamy Stadium,59,2,7.1,35,17,41,163
+2023-04-23,Mumbai Indians,Delhi Capitals,Eden Gardens,133,0,18.2,62,39,42,159
+2023-04-24,Lucknow Super Giants,Mumbai Indians,Eden Gardens,51,5,10.5,21,24,25,110
+2023-05-16,Chennai Super Kings,Gujarat Titans,Wankhede Stadium,95,5,13.8,46,25,32,136
+2023-04-23,Kolkata Knight Riders,Sunrisers Hyderabad,Narendra Modi Stadium,134,1,15.8,62,56,35,174
+2023-04-30,Lucknow Super Giants,Kolkata Knight Riders,Punjab Cricket Association Stadium,125,3,16.4,50,39,45,163
+2023-04-16,Delhi Capitals,Punjab Kings,Narendra Modi Stadium,50,3,6.7,24,16,44,173
+2023-04-07,Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadium,87,7,15.3,32,28,32,124
+2023-05-28,Rajasthan Royals,Lucknow Super Giants,Narendra Modi Stadium,52,1,6.8,30,15,42,182
+2023-05-17,Punjab Kings,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,80,6,14.1,26,31,33,124
+2023-05-27,Mumbai Indians,Punjab Kings,Punjab Cricket Association Stadium,74,3,10.5,35,20,32,140
+2023-05-03,Lucknow Super Giants,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,56,3,9.1,26,14,36,140
+2023-05-06,Lucknow Super Giants,Punjab Kings,M. A. Chidambaram Stadium,63,1,10.0,33,16,29,158
+2023-05-29,Kolkata Knight Riders,Delhi Capitals,Eden Gardens,48,1,6.4,24,18,45,162
+2023-04-13,Delhi Capitals,Rajasthan Royals,Punjab Cricket Association Stadium,77,6,12.6,43,21,26,122
+2023-04-08,Delhi Capitals,Chennai Super Kings,Narendra Modi Stadium,120,3,16.7,46,49,40,160
+2023-04-20,Mumbai Indians,Rajasthan Royals,M. A. Chidambaram Stadium,110,8,18.5,60,30,24,117
+2023-04-24,Kolkata Knight Riders,Lucknow Super Giants,M. Chinnaswamy Stadium,105,3,11.8,36,42,55,226
+2023-03-31,Rajasthan Royals,Chennai Super Kings,Punjab Cricket Association Stadium,99,1,13.1,48,34,42,168
+2023-04-11,Delhi Capitals,Kolkata Knight Riders,M. Chinnaswamy Stadium,97,7,14.7,40,34,28,132
+2023-04-18,Rajasthan Royals,Sunrisers Hyderabad,Narendra Modi Stadium,52,3,8.6,17,22,35,143
+2023-05-21,Sunrisers Hyderabad,Rajasthan Royals,Arun Jaitley Stadium,44,1,5.4,15,21,44,182
+2023-04-28,Rajasthan Royals,Lucknow Super Giants,M. Chinnaswamy Stadium,122,4,18.2,41,59,34,140
+2023-05-19,Chennai Super Kings,Punjab Kings,Eden Gardens,120,0,13.8,59,34,42,181
+2023-04-03,Gujarat Titans,Kolkata Knight Riders,Narendra Modi Stadium,108,1,12.8,44,46,37,177
+2023-04-15,Mumbai Indians,Lucknow Super Giants,Wankhede Stadium,151,1,15.9,51,55,38,201
+2023-05-17,Chennai Super Kings,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,53,2,6.9,25,16,45,174
+2023-05-28,Royal Challengers Bangalore,Chennai Super Kings,Dr. DY Patil Sports Academy,143,3,16.5,64,57,51,183
+2023-05-11,Lucknow Super Giants,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,68,0,9.2,24,26,42,181
+2023-05-16,Rajasthan Royals,Punjab Kings,Sawai Mansingh Stadium,89,7,15.4,32,36,28,117
+2023-05-21,Chennai Super Kings,Lucknow Super Giants,Sawai Mansingh Stadium,51,3,7.5,25,13,36,154
+2023-05-01,Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,114,2,15.7,61,31,33,151
+2023-05-01,Punjab Kings,Kolkata Knight Riders,Narendra Modi Stadium,93,3,11.7,35,48,34,171
+2023-04-10,Gujarat Titans,Chennai Super Kings,Eden Gardens,55,0,7.9,25,14,36,170
+2023-04-18,Chennai Super Kings,Rajasthan Royals,M. Chinnaswamy Stadium,117,4,15.4,53,36,33,156
+2023-05-15,Punjab Kings,Gujarat Titans,Dr. DY Patil Sports Academy,56,3,8.6,33,14,41,143
+2023-04-20,Rajasthan Royals,Royal Challengers Bangalore,Eden Gardens,86,0,11.8,40,31,35,146
+2023-04-22,Gujarat Titans,Kolkata Knight Riders,Narendra Modi Stadium,98,3,14.1,49,36,33,141
+2023-05-04,Kolkata Knight Riders,Chennai Super Kings,Dr. DY Patil Sports Academy,52,1,7.2,23,13,39,179
+2023-05-07,Lucknow Super Giants,Delhi Capitals,Dr. DY Patil Sports Academy,69,7,14.7,23,27,29,96
+2023-03-31,Punjab Kings,Chennai Super Kings,Wankhede Stadium,54,3,7.0,25,15,36,160
+2023-04-22,Delhi Capitals,Gujarat Titans,Narendra Modi Stadium,100,4,12.7,57,31,45,181
+2023-05-20,Delhi Capitals,Chennai Super Kings,Sawai Mansingh Stadium,107,5,18.0,58,34,29,121
+2023-05-28,Kolkata Knight Riders,Rajasthan Royals,Narendra Modi Stadium,57,0,7.6,24,17,36,175
+2023-03-31,Lucknow Super Giants,Delhi Capitals,Wankhede Stadium,96,7,14.4,38,41,27,130
+2023-04-30,Lucknow Super Giants,Sunrisers Hyderabad,Punjab Cricket Association Stadium,48,0,7.5,18,23,37,152
+2023-05-24,Chennai Super Kings,Mumbai Indians,Punjab Cricket Association Stadium,123,0,14.2,60,31,48,200
+2023-05-27,Punjab Kings,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,111,5,15.5,56,30,40,156
+2023-05-16,Delhi Capitals,Chennai Super Kings,Eden Gardens,90,2,11.4,41,28,48,190
+2023-04-07,Punjab Kings,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,143,1,17.1,44,59,48,184
+2023-05-19,Royal Challengers Bangalore,Mumbai Indians,Arun Jaitley Stadium,77,7,14.3,37,20,30,115
+2023-04-08,Delhi Capitals,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,106,2,15.2,53,28,32,148
+2023-04-28,Delhi Capitals,Chennai Super Kings,Punjab Cricket Association Stadium,73,2,10.1,33,23,44,169
+2023-05-04,Lucknow Super Giants,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,63,5,10.0,29,23,38,143
+2023-04-16,Kolkata Knight Riders,Sunrisers Hyderabad,M. Chinnaswamy Stadium,52,0,5.5,22,19,45,219
+2023-04-20,Chennai Super Kings,Punjab Kings,Wankhede Stadium,56,3,7.3,27,13,36,138
+2023-05-21,Lucknow Super Giants,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,100,3,13.4,46,28,41,158
+2023-05-29,Kolkata Knight Riders,Gujarat Titans,M. A. Chidambaram Stadium,91,2,11.1,35,28,52,223
+2023-04-12,Lucknow Super Giants,Royal Challengers Bangalore,Eden Gardens,132,0,14.6,72,40,46,188
+2023-05-26,Royal Challengers Bangalore,Delhi Capitals,M. Chinnaswamy Stadium,60,1,6.2,22,28,52,213
+2023-04-06,Sunrisers Hyderabad,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,97,7,15.1,51,30,27,127
+2023-05-19,Punjab Kings,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,83,4,13.7,40,29,27,126
+2023-04-21,Gujarat Titans,Mumbai Indians,Dr. DY Patil Sports Academy,111,3,13.7,36,43,36,166
+2023-04-27,Royal Challengers Bangalore,Delhi Capitals,M. Chinnaswamy Stadium,81,3,10.6,28,35,43,175
+2023-05-13,Chennai Super Kings,Rajasthan Royals,Wankhede Stadium,63,1,7.3,27,22,56,203
+2023-04-16,Chennai Super Kings,Sunrisers Hyderabad,Sawai Mansingh Stadium,85,3,10.4,32,43,36,182
+2023-04-05,Royal Challengers Bangalore,Mumbai Indians,Narendra Modi Stadium,106,9,18.7,57,29,29,114
+2023-04-29,Punjab Kings,Mumbai Indians,Dr. DY Patil Sports Academy,106,4,15.0,36,53,33,144
+2023-04-19,Mumbai Indians,Chennai Super Kings,Narendra Modi Stadium,81,6,15.6,35,22,29,112
+2023-05-14,Lucknow Super Giants,Kolkata Knight Riders,Sawai Mansingh Stadium,93,0,13.3,47,20,39,172
+2023-04-05,Punjab Kings,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,96,1,10.8,53,26,54,196
+2023-04-16,Delhi Capitals,Gujarat Titans,Sawai Mansingh Stadium,117,3,17.4,44,51,42,141
+2023-05-02,Mumbai Indians,Rajasthan Royals,Eden Gardens,83,4,14.8,42,28,26,117
+2023-04-06,Kolkata Knight Riders,Lucknow Super Giants,Wankhede Stadium,101,3,15.3,55,29,36,145
+2023-05-29,Gujarat Titans,Mumbai Indians,Narendra Modi Stadium,75,2,9.9,35,29,40,160
+2023-05-12,Lucknow Super Giants,Chennai Super Kings,Punjab Cricket Association Stadium,89,2,13.1,35,36,40,149
+2023-05-07,Royal Challengers Bangalore,Punjab Kings,Dr. DY Patil Sports Academy,101,0,11.3,59,25,44,202
+2023-04-07,Chennai Super Kings,Rajasthan Royals,Arun Jaitley Stadium,63,0,8.1,29,16,46,188
+2023-04-26,Lucknow Super Giants,Delhi Capitals,Narendra Modi Stadium,138,1,16.2,67,46,44,185
+2023-05-18,Sunrisers Hyderabad,Delhi Capitals,Punjab Cricket Association Stadium,49,1,7.3,26,15,38,158
+2023-04-26,Rajasthan Royals,Lucknow Super Giants,Arun Jaitley Stadium,87,3,14.2,45,32,35,134
+2023-05-06,Sunrisers Hyderabad,Chennai Super Kings,Narendra Modi Stadium,45,2,5.3,24,12,45,198
+2023-04-11,Sunrisers Hyderabad,Kolkata Knight Riders,Narendra Modi Stadium,59,0,6.9,22,24,47,247
+2023-05-02,Chennai Super Kings,Punjab Kings,Eden Gardens,57,0,8.6,31,16,43,154
+2023-04-16,Gujarat Titans,Chennai Super Kings,Dr. DY Patil Sports Academy,124,0,14.4,56,31,52,189
+2023-05-29,Gujarat Titans,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,109,1,16.4,59,35,28,136
+2023-05-28,Kolkata Knight Riders,Sunrisers Hyderabad,Arun Jaitley Stadium,62,2,8.8,29,24,32,134
+2023-05-20,Sunrisers Hyderabad,Delhi Capitals,Dr. DY Patil Sports Academy,74,0,9.0,26,29,40,174
+2023-04-10,Lucknow Super Giants,Delhi Capitals,Punjab Cricket Association Stadium,95,4,15.3,40,28,38,135
+2023-05-07,Delhi Capitals,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,45,1,5.2,21,19,45,186
+2023-05-24,Gujarat Titans,Punjab Kings,Sawai Mansingh Stadium,81,3,10.4,35,29,38,154
+2023-04-13,Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,106,5,13.8,43,37,48,180
+2023-05-20,Gujarat Titans,Kolkata Knight Riders,Arun Jaitley Stadium,72,0,10.3,23,31,38,188
+2023-05-21,Mumbai Indians,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,102,1,12.6,50,34,37,168
+2023-05-08,Delhi Capitals,Gujarat Titans,M. Chinnaswamy Stadium,61,1,6.3,23,30,46,193
+2023-04-30,Sunrisers Hyderabad,Chennai Super Kings,Sawai Mansingh Stadium,142,0,17.8,45,59,33,163
+2023-05-01,Delhi Capitals,Mumbai Indians,Dr. DY Patil Sports Academy,97,0,11.2,46,34,48,222
+2023-04-26,Lucknow Super Giants,Delhi Capitals,Punjab Cricket Association Stadium,88,5,14.2,38,39,38,129
+2023-04-19,Sunrisers Hyderabad,Chennai Super Kings,Eden Gardens,100,2,12.1,36,43,49,192
+2023-04-21,Gujarat Titans,Royal Challengers Bangalore,Arun Jaitley Stadium,100,3,16.3,42,33,26,127
+2023-04-09,Punjab Kings,Royal Challengers Bangalore,Arun Jaitley Stadium,138,2,16.1,69,31,55,198
+2023-04-17,Kolkata Knight Riders,Delhi Capitals,Punjab Cricket Association Stadium,117,4,18.5,64,34,30,128
+2023-03-31,Rajasthan Royals,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,95,1,10.1,40,25,42,202
+2023-04-20,Rajasthan Royals,Lucknow Super Giants,Narendra Modi Stadium,69,5,13.1,36,18,22,103
+2023-05-16,Lucknow Super Giants,Sunrisers Hyderabad,Wankhede Stadium,116,6,16.3,44,47,39,148
+2023-04-17,Gujarat Titans,Punjab Kings,Punjab Cricket Association Stadium,153,1,18.4,75,33,48,178
+2023-05-06,Kolkata Knight Riders,Gujarat Titans,M. A. Chidambaram Stadium,91,2,11.4,38,30,37,158
+2023-05-20,Punjab Kings,Lucknow Super Giants,Punjab Cricket Association Stadium,106,3,15.8,41,41,38,149
+2023-04-01,Royal Challengers Bangalore,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,96,3,11.2,47,20,42,198
+2023-05-25,Punjab Kings,Gujarat Titans,Punjab Cricket Association Stadium,77,2,9.1,43,19,50,207
+2023-04-05,Lucknow Super Giants,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,114,3,14.4,43,46,40,183
+2023-04-04,Royal Challengers Bangalore,Punjab Kings,Punjab Cricket Association Stadium,97,5,12.7,44,40,36,149
+2023-04-20,Rajasthan Royals,Royal Challengers Bangalore,M. Chinnaswamy Stadium,121,5,17.4,57,31,44,150
+2023-04-12,Royal Challengers Bangalore,Kolkata Knight Riders,M. Chinnaswamy Stadium,78,0,7.6,24,31,50,222
+2023-05-12,Kolkata Knight Riders,Lucknow Super Giants,M. Chinnaswamy Stadium,61,2,7.4,21,30,51,205
+2023-04-01,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,40,1,5.7,20,11,30,151
+2023-04-07,Royal Challengers Bangalore,Kolkata Knight Riders,M. A. Chidambaram Stadium,115,9,18.6,41,48,26,123
+2023-05-30,Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,83,3,10.5,43,20,48,186
+2023-05-14,Chennai Super Kings,Rajasthan Royals,Punjab Cricket Association Stadium,48,1,5.2,22,11,41,168
+2023-04-30,Mumbai Indians,Lucknow Super Giants,Dr. DY Patil Sports Academy,110,4,16.6,36,44,42,150
+2023-04-11,Punjab Kings,Chennai Super Kings,Eden Gardens,45,0,5.4,19,20,40,193
+2023-04-02,Royal Challengers Bangalore,Rajasthan Royals,Wankhede Stadium,87,6,12.8,25,37,42,143
+2023-04-30,Sunrisers Hyderabad,Rajasthan Royals,Sawai Mansingh Stadium,74,4,11.4,39,19,30,137
+2023-05-12,Chennai Super Kings,Sunrisers Hyderabad,Punjab Cricket Association Stadium,103,3,15.9,39,49,36,145
+2023-05-09,Chennai Super Kings,Kolkata Knight Riders,Arun Jaitley Stadium,66,2,8.6,30,24,41,178
+2023-04-27,Punjab Kings,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,155,0,15.7,81,46,64,226
+2023-04-15,Royal Challengers Bangalore,Rajasthan Royals,Narendra Modi Stadium,41,1,5.2,21,12,41,187
+2023-05-04,Sunrisers Hyderabad,Chennai Super Kings,M. Chinnaswamy Stadium,100,5,14.5,48,26,36,151
+2023-04-21,Gujarat Titans,Delhi Capitals,M. A. Chidambaram Stadium,103,6,16.3,34,39,32,131
+2023-05-25,Punjab Kings,Delhi Capitals,Punjab Cricket Association Stadium,122,0,11.3,58,31,67,255
+2023-05-19,Mumbai Indians,Kolkata Knight Riders,Narendra Modi Stadium,74,6,12.6,38,21,29,119
+2023-04-23,Royal Challengers Bangalore,Chennai Super Kings,Eden Gardens,121,3,14.2,60,28,47,195
+2023-05-30,Rajasthan Royals,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,116,6,18.1,57,26,25,128
+2023-05-29,Lucknow Super Giants,Chennai Super Kings,Wankhede Stadium,122,2,15.9,66,37,49,173
+2023-04-25,Lucknow Super Giants,Kolkata Knight Riders,Arun Jaitley Stadium,128,1,17.1,48,44,43,162
+2023-04-09,Delhi Capitals,Punjab Kings,Wankhede Stadium,107,4,14.2,41,46,38,159
+2023-04-09,Chennai Super Kings,Punjab Kings,M. Chinnaswamy Stadium,181,0,18.8,70,60,52,203
+2023-05-18,Delhi Capitals,Kolkata Knight Riders,Sawai Mansingh Stadium,47,2,6.5,22,14,37,158
+2023-05-23,Delhi Capitals,Lucknow Super Giants,Sawai Mansingh Stadium,76,2,9.8,35,19,35,160
+2023-04-06,Sunrisers Hyderabad,Gujarat Titans,Dr. DY Patil Sports Academy,109,6,17.1,37,53,27,130
+2023-04-06,Chennai Super Kings,Kolkata Knight Riders,Narendra Modi Stadium,94,5,13.4,45,27,34,150
+2023-05-03,Mumbai Indians,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,110,0,14.7,45,45,35,152
+2023-05-27,Delhi Capitals,Punjab Kings,Narendra Modi Stadium,77,1,10.1,35,22,43,185
+2023-05-25,Gujarat Titans,Punjab Kings,Rajiv Gandhi International Cricket Stadium,139,2,15.9,62,44,51,197
+2023-04-06,Chennai Super Kings,Rajasthan Royals,Narendra Modi Stadium,108,2,14.0,51,42,37,155
+2023-04-10,Punjab Kings,Mumbai Indians,M. A. Chidambaram Stadium,69,2,7.8,35,20,47,196
+2023-04-05,Lucknow Super Giants,Rajasthan Royals,M. Chinnaswamy Stadium,56,2,7.1,21,28,50,193
+2023-05-06,Chennai Super Kings,Punjab Kings,Arun Jaitley Stadium,80,0,11.4,29,42,32,157
+2023-04-28,Kolkata Knight Riders,Royal Challengers Bangalore,Wankhede Stadium,94,0,9.3,41,32,65,222
+2023-04-25,Lucknow Super Giants,Rajasthan Royals,M. Chinnaswamy Stadium,105,5,15.2,54,26,43,152
+2023-04-08,Punjab Kings,Kolkata Knight Riders,Sawai Mansingh Stadium,140,0,13.4,60,51,50,236
+2023-05-15,Gujarat Titans,Kolkata Knight Riders,Punjab Cricket Association Stadium,71,0,8.9,24,33,52,180
+2023-05-27,Punjab Kings,Sunrisers Hyderabad,Eden Gardens,44,1,5.9,24,11,44,192
+2023-05-30,Royal Challengers Bangalore,Rajasthan Royals,Arun Jaitley Stadium,103,4,14.6,45,33,43,153
+2023-05-13,Lucknow Super Giants,Punjab Kings,Wankhede Stadium,175,0,19.1,87,38,50,190
+2023-04-15,Lucknow Super Giants,Royal Challengers Bangalore,Eden Gardens,43,1,5.4,16,14,43,203
+2023-04-30,Royal Challengers Bangalore,Punjab Kings,Eden Gardens,45,2,6.4,14,19,32,136
+2023-04-05,Punjab Kings,Sunrisers Hyderabad,M. A. Chidambaram Stadium,108,0,12.6,53,34,36,176
+2023-04-20,Rajasthan Royals,Delhi Capitals,Wankhede Stadium,133,5,16.6,57,40,35,163
+2023-05-28,Royal Challengers Bangalore,Punjab Kings,Dr. DY Patil Sports Academy,64,3,7.6,20,26,51,171
+2023-05-20,Chennai Super Kings,Delhi Capitals,M. Chinnaswamy Stadium,55,1,6.6,18,21,36,171
+2023-05-12,Gujarat Titans,Rajasthan Royals,Punjab Cricket Association Stadium,89,8,18.7,44,20,24,95
+2023-05-28,Sunrisers Hyderabad,Chennai Super Kings,Sawai Mansingh Stadium,53,2,6.3,24,19,49,184
+2023-05-18,Kolkata Knight Riders,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,62,3,10.9,25,19,31,142
+2023-05-19,Mumbai Indians,Gujarat Titans,Wankhede Stadium,70,0,7.7,34,26,51,211
+2023-04-19,Rajasthan Royals,Kolkata Knight Riders,Narendra Modi Stadium,178,0,19.0,77,62,57,192
+2023-04-13,Chennai Super Kings,Sunrisers Hyderabad,Eden Gardens,94,5,17.9,41,28,21,107
+2023-05-29,Delhi Capitals,Mumbai Indians,Arun Jaitley Stadium,110,5,14.6,48,46,45,151
+2023-05-12,Delhi Capitals,Rajasthan Royals,Dr. DY Patil Sports Academy,98,4,15.3,40,43,37,138
+2023-05-27,Kolkata Knight Riders,Sunrisers Hyderabad,M. Chinnaswamy Stadium,90,5,13.7,33,43,37,131
+2023-05-20,Sunrisers Hyderabad,Chennai Super Kings,Eden Gardens,108,1,12.8,61,28,42,177
+2023-04-06,Chennai Super Kings,Rajasthan Royals,Arun Jaitley Stadium,112,8,18.8,36,53,31,119
+2023-04-05,Chennai Super Kings,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,106,3,13.9,54,36,40,182
+2023-04-02,Lucknow Super Giants,Mumbai Indians,Eden Gardens,80,2,9.9,35,24,40,147
+2023-04-11,Kolkata Knight Riders,Punjab Kings,Punjab Cricket Association Stadium,36,1,5.4,16,12,29,145
+2023-04-26,Gujarat Titans,Lucknow Super Giants,Wankhede Stadium,115,2,14.0,54,26,47,166
+2023-04-24,Lucknow Super Giants,Chennai Super Kings,Arun Jaitley Stadium,119,0,16.1,66,32,47,166
+2023-04-28,Kolkata Knight Riders,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,67,3,8.6,35,17,35,161
+2023-04-24,Delhi Capitals,Royal Challengers Bangalore,Narendra Modi Stadium,92,6,15.7,44,28,31,125
+2023-04-22,Kolkata Knight Riders,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,112,7,17.8,44,42,30,126
+2023-04-13,Kolkata Knight Riders,Lucknow Super Giants,Dr. DY Patil Sports Academy,79,3,10.3,36,25,35,151
+2023-04-19,Lucknow Super Giants,Rajasthan Royals,Wankhede Stadium,60,2,7.9,25,20,33,153
+2023-05-12,Royal Challengers Bangalore,Delhi Capitals,Dr. DY Patil Sports Academy,107,6,16.2,38,39,30,138
+2023-05-09,Lucknow Super Giants,Gujarat Titans,Wankhede Stadium,100,1,14.8,36,50,41,150
+2023-04-09,Kolkata Knight Riders,Delhi Capitals,M. A. Chidambaram Stadium,83,2,10.3,40,25,38,172
+2023-04-09,Royal Challengers Bangalore,Rajasthan Royals,M. A. Chidambaram Stadium,84,4,12.7,42,27,31,132
+2023-05-30,Royal Challengers Bangalore,Sunrisers Hyderabad,M. A. Chidambaram Stadium,134,2,16.0,67,39,45,188
+2023-05-06,Royal Challengers Bangalore,Sunrisers Hyderabad,Wankhede Stadium,117,9,19.1,42,41,27,123
+2023-04-07,Kolkata Knight Riders,Punjab Kings,M. Chinnaswamy Stadium,141,1,15.3,66,46,50,210
+2023-05-02,Delhi Capitals,Gujarat Titans,Wankhede Stadium,85,1,12.1,34,30,35,150
+2023-04-29,Chennai Super Kings,Punjab Kings,Sawai Mansingh Stadium,36,2,5.5,12,14,34,152
+2023-04-24,Punjab Kings,Lucknow Super Giants,Sawai Mansingh Stadium,100,6,17.4,54,34,31,120
+2023-05-28,Chennai Super Kings,Punjab Kings,Sawai Mansingh Stadium,178,0,18.0,54,74,48,206
+2023-05-25,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,122,5,15.7,52,36,48,176
+2023-04-06,Lucknow Super Giants,Chennai Super Kings,Wankhede Stadium,140,3,15.2,63,39,38,192
+2023-05-15,Chennai Super Kings,Rajasthan Royals,Narendra Modi Stadium,95,3,14.1,49,35,30,141
+2023-04-03,Sunrisers Hyderabad,Royal Challengers Bangalore,Sawai Mansingh Stadium,45,0,5.1,22,16,40,174
+2023-05-24,Punjab Kings,Kolkata Knight Riders,Eden Gardens,69,4,10.7,26,30,29,121
+2023-05-26,Delhi Capitals,Lucknow Super Giants,Eden Gardens,52,0,5.9,23,13,45,232
+2023-05-17,Chennai Super Kings,Punjab Kings,Dr. DY Patil Sports Academy,112,5,16.2,57,42,40,148
+2023-04-23,Sunrisers Hyderabad,Delhi Capitals,Punjab Cricket Association Stadium,63,1,9.5,27,25,41,162
+2023-04-25,Sunrisers Hyderabad,Lucknow Super Giants,Punjab Cricket Association Stadium,44,3,7.2,15,16,40,130
+2023-05-20,Royal Challengers Bangalore,Lucknow Super Giants,Dr. DY Patil Sports Academy,120,3,18.7,43,43,26,130
+2023-05-05,Delhi Capitals,Kolkata Knight Riders,Arun Jaitley Stadium,71,5,12.1,33,28,33,127
+2023-05-15,Sunrisers Hyderabad,Delhi Capitals,Eden Gardens,63,3,8.4,21,22,33,152
+2023-04-07,Lucknow Super Giants,Royal Challengers Bangalore,Sawai Mansingh Stadium,79,2,9.1,42,18,36,167
+2023-04-20,Kolkata Knight Riders,Punjab Kings,Punjab Cricket Association Stadium,99,8,16.4,55,27,38,130
+2023-05-15,Lucknow Super Giants,Kolkata Knight Riders,Arun Jaitley Stadium,88,3,12.1,39,37,31,149
+2023-05-27,Delhi Capitals,Chennai Super Kings,Punjab Cricket Association Stadium,86,1,10.6,41,21,33,170
+2023-05-22,Lucknow Super Giants,Sunrisers Hyderabad,Sawai Mansingh Stadium,59,2,7.1,29,15,37,180
+2023-05-08,Chennai Super Kings,Delhi Capitals,Wankhede Stadium,124,3,15.7,47,45,45,172
+2023-04-18,Mumbai Indians,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,53,3,6.1,21,20,38,178
+2023-04-29,Delhi Capitals,Kolkata Knight Riders,Dr. DY Patil Sports Academy,89,1,11.6,26,36,37,163
+2023-04-24,Gujarat Titans,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,76,6,14.4,38,26,25,104
+2023-05-16,Royal Challengers Bangalore,Sunrisers Hyderabad,M. A. Chidambaram Stadium,126,2,18.4,52,59,40,143
+2023-05-18,Chennai Super Kings,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,91,4,12.9,43,33,29,139
+2023-05-25,Delhi Capitals,Kolkata Knight Riders,Arun Jaitley Stadium,38,2,5.8,15,17,27,117
+2023-05-25,Royal Challengers Bangalore,Gujarat Titans,Narendra Modi Stadium,65,3,9.7,31,20,38,144
+2023-04-13,Kolkata Knight Riders,Sunrisers Hyderabad,Wankhede Stadium,92,0,10.1,36,44,41,219
+2023-04-18,Delhi Capitals,Gujarat Titans,Narendra Modi Stadium,112,1,12.4,38,45,56,211
+2023-04-28,Lucknow Super Giants,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,60,0,8.0,33,17,33,170
+2023-05-13,Kolkata Knight Riders,Delhi Capitals,Narendra Modi Stadium,78,5,11.7,32,35,35,137
+2023-04-21,Kolkata Knight Riders,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,107,7,15.4,42,35,37,155
+2023-04-15,Chennai Super Kings,Lucknow Super Giants,Wankhede Stadium,192,0,17.4,83,86,54,224
+2023-04-13,Kolkata Knight Riders,Rajasthan Royals,Narendra Modi Stadium,44,3,6.1,13,17,31,159
+2023-05-28,Kolkata Knight Riders,Chennai Super Kings,Wankhede Stadium,96,7,17.8,43,37,33,109
+2023-05-06,Sunrisers Hyderabad,Chennai Super Kings,Eden Gardens,54,3,8.1,28,15,33,133
+2023-04-04,Delhi Capitals,Lucknow Super Giants,Punjab Cricket Association Stadium,47,2,7.9,19,21,31,138
+2023-05-23,Rajasthan Royals,Gujarat Titans,Punjab Cricket Association Stadium,116,0,16.5,57,31,37,162
+2023-05-04,Royal Challengers Bangalore,Punjab Kings,Narendra Modi Stadium,73,4,10.9,27,28,40,157
+2023-04-23,Rajasthan Royals,Chennai Super Kings,Dr. DY Patil Sports Academy,62,1,8.7,30,18,44,152
+2023-05-25,Royal Challengers Bangalore,Punjab Kings,Sawai Mansingh Stadium,124,2,14.2,70,40,53,204
+2023-05-02,Gujarat Titans,Mumbai Indians,Sawai Mansingh Stadium,50,0,6.5,27,16,44,189
+2023-05-23,Punjab Kings,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,75,6,12.6,38,25,39,124
+2023-05-14,Kolkata Knight Riders,Mumbai Indians,Sawai Mansingh Stadium,81,7,16.6,34,38,24,98
+2023-05-22,Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,49,0,5.5,17,23,46,228
+2023-03-31,Lucknow Super Giants,Delhi Capitals,Narendra Modi Stadium,80,1,10.6,41,28,41,196
+2023-04-22,Mumbai Indians,Delhi Capitals,Punjab Cricket Association Stadium,121,6,17.5,54,40,42,150
+2023-04-24,Mumbai Indians,Sunrisers Hyderabad,M. A. Chidambaram Stadium,67,4,11.9,34,23,23,113
+2023-04-30,Mumbai Indians,Punjab Kings,M. Chinnaswamy Stadium,95,5,13.0,29,44,31,160
+2023-04-28,Chennai Super Kings,Gujarat Titans,Eden Gardens,81,5,11.7,40,25,32,131
+2023-04-28,Delhi Capitals,Royal Challengers Bangalore,Wankhede Stadium,75,2,9.2,28,38,42,182
+2023-05-11,Royal Challengers Bangalore,Rajasthan Royals,Wankhede Stadium,83,1,9.4,33,38,45,206
+2023-04-08,Royal Challengers Bangalore,Mumbai Indians,Punjab Cricket Association Stadium,71,6,12.2,34,22,32,120
+2023-05-05,Rajasthan Royals,Chennai Super Kings,M. A. Chidambaram Stadium,44,2,6.3,22,10,30,121
+2023-04-12,Sunrisers Hyderabad,Gujarat Titans,Narendra Modi Stadium,84,3,13.1,32,29,34,132
+2023-05-14,Rajasthan Royals,Mumbai Indians,Narendra Modi Stadium,44,0,5.9,14,21,44,194
+2023-05-21,Kolkata Knight Riders,Lucknow Super Giants,Punjab Cricket Association Stadium,83,1,11.9,38,30,42,153
+2023-05-25,Chennai Super Kings,Sunrisers Hyderabad,Sawai Mansingh Stadium,152,1,19.4,84,45,38,156
+2023-04-27,Mumbai Indians,Punjab Kings,Rajiv Gandhi International Cricket Stadium,44,2,5.4,22,12,37,187
+2023-05-02,Rajasthan Royals,Royal Challengers Bangalore,Arun Jaitley Stadium,89,2,13.7,38,34,35,155
+2023-04-02,Punjab Kings,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,68,2,9.1,25,26,47,174
+2023-05-14,Lucknow Super Giants,Gujarat Titans,Dr. DY Patil Sports Academy,80,6,13.7,31,26,28,116
+2023-04-17,Delhi Capitals,Lucknow Super Giants,Dr. DY Patil Sports Academy,100,2,12.4,34,40,52,180
+2023-04-17,Delhi Capitals,Rajasthan Royals,Arun Jaitley Stadium,130,2,16.1,58,37,47,175
+2023-05-03,Royal Challengers Bangalore,Chennai Super Kings,M. Chinnaswamy Stadium,120,3,14.3,61,30,50,184
+2023-05-29,Lucknow Super Giants,Sunrisers Hyderabad,Sawai Mansingh Stadium,72,2,10.0,41,22,47,165
+2023-05-29,Sunrisers Hyderabad,Lucknow Super Giants,Sawai Mansingh Stadium,98,2,13.5,51,22,40,157
+2023-04-20,Chennai Super Kings,Royal Challengers Bangalore,Eden Gardens,46,0,6.8,18,14,29,135
+2023-04-02,Lucknow Super Giants,Mumbai Indians,Wankhede Stadium,47,2,6.6,20,14,42,165
+2023-04-01,Gujarat Titans,Punjab Kings,Arun Jaitley Stadium,47,3,7.5,17,23,36,145
+2023-04-06,Kolkata Knight Riders,Rajasthan Royals,Arun Jaitley Stadium,47,4,8.5,15,19,25,106
+2023-04-24,Sunrisers Hyderabad,Kolkata Knight Riders,Arun Jaitley Stadium,49,0,6.5,23,11,46,186
+2023-04-13,Sunrisers Hyderabad,Rajasthan Royals,Sawai Mansingh Stadium,84,0,10.0,42,30,41,197
+2023-04-24,Royal Challengers Bangalore,Rajasthan Royals,Arun Jaitley Stadium,57,2,8.2,20,22,38,159
+2023-04-15,Chennai Super Kings,Sunrisers Hyderabad,Wankhede Stadium,76,2,10.6,31,27,36,146
+2023-05-28,Delhi Capitals,Sunrisers Hyderabad,Eden Gardens,70,1,7.4,33,20,40,202
+2023-04-03,Delhi Capitals,Chennai Super Kings,Sawai Mansingh Stadium,88,7,18.5,45,23,21,94
+2023-05-25,Chennai Super Kings,Mumbai Indians,Dr. DY Patil Sports Academy,104,2,14.5,36,44,29,150
+2023-05-19,Chennai Super Kings,Delhi Capitals,Eden Gardens,79,6,12.7,29,36,39,129
+2023-05-19,Delhi Capitals,Gujarat Titans,Wankhede Stadium,99,0,12.3,51,27,37,178
+2023-04-29,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,102,3,15.3,50,22,29,139
+2023-05-18,Rajasthan Royals,Gujarat Titans,Sawai Mansingh Stadium,111,7,15.5,49,35,41,158
+2023-04-26,Royal Challengers Bangalore,Gujarat Titans,Punjab Cricket Association Stadium,55,0,6.8,20,21,45,188
+2023-04-20,Sunrisers Hyderabad,Kolkata Knight Riders,Wankhede Stadium,69,1,8.1,25,32,51,198
+2023-05-27,Sunrisers Hyderabad,Delhi Capitals,Punjab Cricket Association Stadium,71,5,10.8,29,26,27,152
+2023-04-18,Punjab Kings,Mumbai Indians,Narendra Modi Stadium,103,3,11.7,35,37,53,201
+2023-05-24,Sunrisers Hyderabad,Chennai Super Kings,Narendra Modi Stadium,76,2,9.8,30,37,45,158
+2023-05-03,Punjab Kings,Mumbai Indians,Punjab Cricket Association Stadium,76,4,10.8,23,33,37,154
+2023-05-18,Gujarat Titans,Mumbai Indians,Sawai Mansingh Stadium,130,1,15.6,56,56,48,189
+2023-05-18,Kolkata Knight Riders,Chennai Super Kings,Dr. DY Patil Sports Academy,64,3,10.6,19,25,30,131
+2023-04-27,Gujarat Titans,Delhi Capitals,Arun Jaitley Stadium,32,0,5.0,17,9,29,143
+2023-04-07,Chennai Super Kings,Sunrisers Hyderabad,Narendra Modi Stadium,128,2,13.9,54,41,57,210
+2023-05-03,Royal Challengers Bangalore,Gujarat Titans,M. Chinnaswamy Stadium,112,3,16.7,44,44,35,146
+2023-05-30,Lucknow Super Giants,Delhi Capitals,M. Chinnaswamy Stadium,59,1,6.5,30,13,47,199
+2023-04-23,Rajasthan Royals,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,79,2,13.2,42,20,25,127
+2023-05-22,Rajasthan Royals,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,90,0,11.9,37,31,49,181
+2023-04-27,Kolkata Knight Riders,Delhi Capitals,Arun Jaitley Stadium,105,1,13.9,56,29,32,153
+2023-04-27,Sunrisers Hyderabad,Chennai Super Kings,Eden Gardens,143,0,19.4,70,37,42,151
+2023-04-05,Mumbai Indians,Royal Challengers Bangalore,M. Chinnaswamy Stadium,96,0,9.8,27,40,61,253
+2023-05-01,Chennai Super Kings,Delhi Capitals,Dr. DY Patil Sports Academy,56,4,9.2,21,18,37,131
+2023-05-01,Lucknow Super Giants,Kolkata Knight Riders,M. Chinnaswamy Stadium,50,1,5.5,21,21,48,217
+2023-05-21,Kolkata Knight Riders,Delhi Capitals,Narendra Modi Stadium,49,3,8.1,20,14,26,108
+2023-04-04,Delhi Capitals,Punjab Kings,Narendra Modi Stadium,80,5,13.4,42,28,34,132
+2023-05-27,Sunrisers Hyderabad,Mumbai Indians,Narendra Modi Stadium,49,1,7.3,27,15,33,154
+2023-05-20,Punjab Kings,Sunrisers Hyderabad,Eden Gardens,117,6,16.8,65,33,31,140
+2023-04-05,Sunrisers Hyderabad,Punjab Kings,Eden Gardens,43,0,5.6,25,12,43,198
+2023-05-15,Punjab Kings,Lucknow Super Giants,Narendra Modi Stadium,48,1,5.0,15,19,48,213
+2023-04-25,Gujarat Titans,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,137,0,16.2,62,48,50,182
+2023-05-10,Chennai Super Kings,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,122,9,18.5,49,56,30,134
+2023-05-12,Lucknow Super Giants,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,50,4,8.8,20,22,22,103
+2023-05-04,Gujarat Titans,Rajasthan Royals,Wankhede Stadium,91,5,12.3,40,29,30,154
+2023-04-18,Chennai Super Kings,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,94,2,13.1,34,31,34,142
+2023-05-29,Delhi Capitals,Royal Challengers Bangalore,M. Chinnaswamy Stadium,82,6,14.7,35,34,33,122
+2023-05-10,Chennai Super Kings,Lucknow Super Giants,Eden Gardens,156,0,17.7,83,49,41,182
+2023-05-02,Gujarat Titans,Sunrisers Hyderabad,Sawai Mansingh Stadium,53,2,6.8,17,20,47,165
+2023-05-28,Lucknow Super Giants,Chennai Super Kings,M. A. Chidambaram Stadium,50,2,7.4,21,18,42,157
+2023-05-20,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,80,6,16.3,41,24,29,104
+2023-05-12,Sunrisers Hyderabad,Gujarat Titans,Punjab Cricket Association Stadium,68,5,10.6,21,26,34,138
+2023-04-21,Rajasthan Royals,Mumbai Indians,Narendra Modi Stadium,112,1,17.5,56,33,35,138
+2023-05-18,Punjab Kings,Chennai Super Kings,Dr. DY Patil Sports Academy,103,5,16.8,33,47,26,131
+2023-05-14,Delhi Capitals,Rajasthan Royals,Eden Gardens,80,3,9.1,33,27,51,179
+2023-04-11,Chennai Super Kings,Royal Challengers Bangalore,Sawai Mansingh Stadium,66,6,13.7,37,21,23,94
+2023-04-05,Kolkata Knight Riders,Mumbai Indians,M. Chinnaswamy Stadium,81,4,9.5,35,22,54,202
+2023-05-12,Delhi Capitals,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,133,0,15.9,47,47,48,184
+2023-03-31,Chennai Super Kings,Sunrisers Hyderabad,Wankhede Stadium,88,2,11.8,43,20,46,161
+2023-05-28,Lucknow Super Giants,Chennai Super Kings,Wankhede Stadium,78,5,11.8,45,23,34,144
+2023-04-17,Lucknow Super Giants,Kolkata Knight Riders,Punjab Cricket Association Stadium,106,0,12.9,53,29,39,177
+2023-05-07,Delhi Capitals,Lucknow Super Giants,Arun Jaitley Stadium,111,0,13.9,36,54,34,177
+2023-05-06,Royal Challengers Bangalore,Chennai Super Kings,Arun Jaitley Stadium,50,0,6.9,14,20,36,152
+2023-03-31,Kolkata Knight Riders,Chennai Super Kings,Wankhede Stadium,78,2,11.0,41,24,43,165
+2023-05-13,Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,109,2,17.4,62,32,35,137
+2023-04-16,Mumbai Indians,Rajasthan Royals,Punjab Cricket Association Stadium,68,0,7.3,21,28,44,190
+2023-04-30,Gujarat Titans,Chennai Super Kings,Dr. DY Patil Sports Academy,88,2,11.6,35,38,39,164
+2023-05-27,Royal Challengers Bangalore,Mumbai Indians,Arun Jaitley Stadium,85,6,14.4,46,21,25,121
+2023-04-17,Gujarat Titans,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,41,2,5.3,17,18,35,188
+2023-05-06,Gujarat Titans,Royal Challengers Bangalore,Punjab Cricket Association Stadium,127,0,19.2,68,40,33,133
+2023-05-16,Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,113,4,15.1,64,29,40,164
+2023-05-26,Kolkata Knight Riders,Punjab Kings,Wankhede Stadium,113,5,17.4,40,46,41,132
+2023-04-08,Kolkata Knight Riders,Rajasthan Royals,Wankhede Stadium,66,3,8.0,33,14,44,178
+2023-04-23,Chennai Super Kings,Mumbai Indians,M. Chinnaswamy Stadium,46,2,5.2,25,12,46,212
+2023-04-05,Delhi Capitals,Gujarat Titans,Arun Jaitley Stadium,34,2,5.6,17,11,34,160
+2023-05-26,Punjab Kings,Chennai Super Kings,M. A. Chidambaram Stadium,106,1,12.3,42,41,42,179
+2023-04-06,Lucknow Super Giants,Mumbai Indians,M. Chinnaswamy Stadium,55,1,7.8,26,14,32,135
+2023-05-09,Royal Challengers Bangalore,Mumbai Indians,M. A. Chidambaram Stadium,112,3,15.5,62,33,36,154
+2023-04-24,Mumbai Indians,Royal Challengers Bangalore,Narendra Modi Stadium,54,0,5.5,24,14,44,180
+2023-05-22,Royal Challengers Bangalore,Delhi Capitals,Sawai Mansingh Stadium,103,5,15.3,51,40,36,151
+2023-05-20,Sunrisers Hyderabad,Delhi Capitals,Narendra Modi Stadium,82,1,8.8,32,38,44,188
+2023-05-07,Chennai Super Kings,Royal Challengers Bangalore,Wankhede Stadium,63,4,8.3,33,16,41,165
+2023-05-04,Kolkata Knight Riders,Royal Challengers Bangalore,Arun Jaitley Stadium,117,8,18.2,46,36,27,127
+2023-05-05,Royal Challengers Bangalore,Lucknow Super Giants,Wankhede Stadium,96,1,11.2,34,46,37,184
+2023-04-05,Punjab Kings,Sunrisers Hyderabad,Eden Gardens,89,5,14.9,48,27,34,128
+2023-04-10,Lucknow Super Giants,Chennai Super Kings,M. A. Chidambaram Stadium,87,7,15.0,41,32,28,123
+2023-05-16,Royal Challengers Bangalore,Punjab Kings,Narendra Modi Stadium,99,0,10.5,36,38,41,204
+2023-05-04,Sunrisers Hyderabad,Delhi Capitals,Punjab Cricket Association Stadium,59,6,12.6,27,22,28,99
+2023-04-29,Mumbai Indians,Lucknow Super Giants,Dr. DY Patil Sports Academy,39,2,5.7,15,14,34,139
+2023-05-06,Chennai Super Kings,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,61,2,7.2,19,27,40,169
+2023-05-05,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,102,1,10.9,48,34,56,220
+2023-05-30,Gujarat Titans,Royal Challengers Bangalore,Eden Gardens,54,1,5.9,22,24,49,255
+2023-04-16,Delhi Capitals,Royal Challengers Bangalore,Sawai Mansingh Stadium,115,7,18.8,52,32,27,122
+2023-05-13,Chennai Super Kings,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,102,4,14.0,50,33,34,145
+2023-05-18,Royal Challengers Bangalore,Punjab Kings,Sawai Mansingh Stadium,97,0,11.2,46,23,52,215
+2023-04-22,Punjab Kings,Delhi Capitals,Wankhede Stadium,71,1,7.7,26,31,41,209
+2023-04-30,Rajasthan Royals,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,119,4,16.5,64,31,29,142
+2023-05-14,Gujarat Titans,Lucknow Super Giants,Eden Gardens,116,4,17.0,59,32,28,139
+2023-04-03,Delhi Capitals,Kolkata Knight Riders,Arun Jaitley Stadium,151,3,18.3,62,49,45,172
+2023-05-21,Royal Challengers Bangalore,Chennai Super Kings,M. A. Chidambaram Stadium,48,3,6.4,23,17,41,169
+2023-04-12,Sunrisers Hyderabad,Kolkata Knight Riders,Eden Gardens,84,2,10.9,26,38,32,165
+2023-05-01,Punjab Kings,Rajasthan Royals,M. A. Chidambaram Stadium,92,4,11.7,43,34,31,156
+2023-05-21,Mumbai Indians,Chennai Super Kings,Narendra Modi Stadium,146,1,16.3,47,70,51,199
+2023-05-16,Delhi Capitals,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,109,9,18.3,45,44,37,121
+2023-05-25,Gujarat Titans,Delhi Capitals,M. A. Chidambaram Stadium,89,1,12.8,27,40,30,153
+2023-04-10,Kolkata Knight Riders,Gujarat Titans,Eden Gardens,40,3,6.1,13,14,26,131
+2023-05-04,Rajasthan Royals,Mumbai Indians,Narendra Modi Stadium,87,5,14.1,47,21,36,131
+2023-04-27,Mumbai Indians,Lucknow Super Giants,Arun Jaitley Stadium,141,0,17.7,72,36,33,162
+2023-04-29,Chennai Super Kings,Punjab Kings,Arun Jaitley Stadium,51,1,6.4,16,22,40,156
+2023-05-10,Sunrisers Hyderabad,Rajasthan Royals,Sawai Mansingh Stadium,120,2,14.3,50,53,54,180
+2023-05-20,Gujarat Titans,Sunrisers Hyderabad,Arun Jaitley Stadium,77,1,10.0,41,20,33,152
+2023-05-16,Chennai Super Kings,Mumbai Indians,M. A. Chidambaram Stadium,81,7,14.7,38,31,35,111
+2023-05-06,Royal Challengers Bangalore,Mumbai Indians,Punjab Cricket Association Stadium,126,9,19.4,59,44,41,131
+2023-05-25,Delhi Capitals,Gujarat Titans,Dr. DY Patil Sports Academy,81,7,16.0,37,21,27,106
+2023-05-06,Chennai Super Kings,Delhi Capitals,Wankhede Stadium,129,4,16.2,77,35,49,176
+2023-04-14,Delhi Capitals,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,74,4,10.9,24,36,36,152
+2023-04-26,Mumbai Indians,Sunrisers Hyderabad,Eden Gardens,124,4,15.9,53,38,37,169
+2023-05-27,Gujarat Titans,Royal Challengers Bangalore,Sawai Mansingh Stadium,125,4,16.0,74,37,33,161
+2023-04-21,Mumbai Indians,Gujarat Titans,Eden Gardens,80,2,10.9,28,38,39,174
+2023-05-29,Kolkata Knight Riders,Mumbai Indians,Sawai Mansingh Stadium,82,3,12.0,45,26,41,156
+2023-04-07,Delhi Capitals,Kolkata Knight Riders,M. Chinnaswamy Stadium,90,1,10.8,37,30,46,189
+2023-04-30,Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,105,6,14.7,57,24,30,143
+2023-04-05,Kolkata Knight Riders,Punjab Kings,Wankhede Stadium,46,0,5.7,16,21,45,180
+2023-04-26,Royal Challengers Bangalore,Gujarat Titans,Arun Jaitley Stadium,111,7,17.6,40,38,35,131
+2023-05-08,Delhi Capitals,Rajasthan Royals,Eden Gardens,53,1,5.8,23,21,39,174
+2023-05-17,Sunrisers Hyderabad,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,151,2,18.4,68,39,33,169
+2023-04-12,Kolkata Knight Riders,Lucknow Super Giants,Punjab Cricket Association Stadium,74,1,8.4,28,34,43,185
+2023-04-05,Sunrisers Hyderabad,Mumbai Indians,Arun Jaitley Stadium,119,2,17.3,44,42,31,146
+2023-04-20,Royal Challengers Bangalore,Sunrisers Hyderabad,Punjab Cricket Association Stadium,91,2,12.9,47,23,38,163
+2023-04-10,Lucknow Super Giants,Punjab Kings,Wankhede Stadium,45,3,7.0,20,18,30,122
+2023-05-23,Chennai Super Kings,Rajasthan Royals,Punjab Cricket Association Stadium,120,1,12.7,53,42,59,222
+2023-05-26,Sunrisers Hyderabad,Gujarat Titans,Eden Gardens,51,1,6.5,22,17,38,181
+2023-04-28,Kolkata Knight Riders,Rajasthan Royals,Arun Jaitley Stadium,86,8,17.7,38,30,31,99
+2023-04-28,Mumbai Indians,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,85,5,12.9,40,35,38,145
+2023-04-25,Gujarat Titans,Royal Challengers Bangalore,Wankhede Stadium,82,0,10.3,30,37,36,169
+2023-04-25,Punjab Kings,Mumbai Indians,Narendra Modi Stadium,111,3,12.8,38,48,36,182
+2023-05-06,Royal Challengers Bangalore,Punjab Kings,Dr. DY Patil Sports Academy,94,3,10.8,42,33,49,200
+2023-05-20,Gujarat Titans,Mumbai Indians,Eden Gardens,65,0,6.8,35,22,44,218
+2023-05-15,Delhi Capitals,Gujarat Titans,M. Chinnaswamy Stadium,110,4,14.4,51,41,42,164
+2023-05-04,Gujarat Titans,Sunrisers Hyderabad,Wankhede Stadium,90,7,15.1,37,29,30,124
+2023-04-11,Mumbai Indians,Sunrisers Hyderabad,M. Chinnaswamy Stadium,101,0,10.5,57,25,50,225
+2023-05-09,Lucknow Super Giants,Rajasthan Royals,Sawai Mansingh Stadium,67,6,12.2,29,21,28,125
+2023-05-13,Gujarat Titans,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,100,3,14.3,52,35,43,157
+2023-04-21,Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,112,2,14.8,48,47,37,157
+2023-05-07,Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,64,4,10.1,23,29,33,141
+2023-05-25,Kolkata Knight Riders,Lucknow Super Giants,Sawai Mansingh Stadium,123,9,18.9,38,51,37,131
+2023-05-29,Sunrisers Hyderabad,Royal Challengers Bangalore,Narendra Modi Stadium,68,4,10.6,30,19,31,131
+2023-05-25,Gujarat Titans,Chennai Super Kings,Sawai Mansingh Stadium,99,5,15.3,37,41,32,135
+2023-05-18,Sunrisers Hyderabad,Delhi Capitals,M. Chinnaswamy Stadium,68,1,8.3,39,19,49,198
+2023-05-08,Sunrisers Hyderabad,Royal Challengers Bangalore,Wankhede Stadium,62,2,7.9,28,15,35,150
+2023-04-20,Punjab Kings,Kolkata Knight Riders,M. A. Chidambaram Stadium,67,1,8.1,31,26,50,186
+2023-05-24,Punjab Kings,Mumbai Indians,Wankhede Stadium,148,4,18.9,82,46,37,158
+2023-04-11,Sunrisers Hyderabad,Rajasthan Royals,Dr. DY Patil Sports Academy,111,0,12.7,52,37,53,197
+2023-04-15,Gujarat Titans,Lucknow Super Giants,Sawai Mansingh Stadium,112,5,17.4,56,42,40,138
+2023-05-25,Lucknow Super Giants,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,92,7,16.5,35,44,32,123
+2023-04-17,Gujarat Titans,Punjab Kings,Dr. DY Patil Sports Academy,86,2,11.1,42,30,34,172
+2023-04-05,Rajasthan Royals,Punjab Kings,Wankhede Stadium,63,0,7.0,27,26,41,199
+2023-04-08,Chennai Super Kings,Punjab Kings,Narendra Modi Stadium,48,0,6.0,22,15,40,174
+2023-04-18,Gujarat Titans,Lucknow Super Giants,Dr. DY Patil Sports Academy,75,4,10.6,37,17,40,175
+2023-05-20,Sunrisers Hyderabad,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,56,0,7.2,30,19,49,180
+2023-04-13,Royal Challengers Bangalore,Gujarat Titans,M. A. Chidambaram Stadium,114,3,15.7,62,31,41,159
+2023-05-17,Mumbai Indians,Chennai Super Kings,Sawai Mansingh Stadium,62,2,8.5,25,24,39,175
+2023-05-12,Sunrisers Hyderabad,Royal Challengers Bangalore,Eden Gardens,97,7,18.0,49,37,25,106
+2023-04-02,Punjab Kings,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,46,3,6.3,14,19,30,168
+2023-05-11,Sunrisers Hyderabad,Royal Challengers Bangalore,M. A. Chidambaram Stadium,83,1,11.6,47,22,40,196
+2023-04-20,Royal Challengers Bangalore,Lucknow Super Giants,Eden Gardens,98,4,13.4,34,42,31,150
+2023-04-04,Delhi Capitals,Kolkata Knight Riders,Sawai Mansingh Stadium,110,1,13.0,58,26,50,198
+2023-05-30,Delhi Capitals,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,55,3,6.8,26,14,38,166
+2023-04-16,Lucknow Super Giants,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,107,1,15.4,60,31,35,139
+2023-04-03,Punjab Kings,Kolkata Knight Riders,Dr. DY Patil Sports Academy,96,4,11.8,43,27,49,193
+2023-05-03,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,41,2,5.4,18,16,41,179
+2023-05-26,Mumbai Indians,Delhi Capitals,Sawai Mansingh Stadium,89,6,12.1,39,32,40,157
+2023-05-15,Punjab Kings,Gujarat Titans,Narendra Modi Stadium,68,3,7.7,38,21,53,188
+2023-04-15,Rajasthan Royals,Chennai Super Kings,Dr. DY Patil Sports Academy,86,5,17.4,33,41,22,104
+2023-04-01,Royal Challengers Bangalore,Lucknow Super Giants,Dr. DY Patil Sports Academy,115,0,15.9,57,29,38,168
+2023-05-06,Rajasthan Royals,Sunrisers Hyderabad,M. A. Chidambaram Stadium,52,4,8.1,19,18,36,133
+2023-05-25,Sunrisers Hyderabad,Rajasthan Royals,Punjab Cricket Association Stadium,104,2,15.9,37,50,28,132
+2023-04-07,Lucknow Super Giants,Mumbai Indians,Punjab Cricket Association Stadium,59,2,7.0,34,16,37,166
+2023-05-06,Kolkata Knight Riders,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,54,4,9.9,26,17,26,106
+2023-04-11,Chennai Super Kings,Lucknow Super Giants,M. Chinnaswamy Stadium,47,2,5.3,17,17,36,186
+2023-04-18,Rajasthan Royals,Royal Challengers Bangalore,Wankhede Stadium,134,3,17.2,73,45,47,167
+2023-05-21,Kolkata Knight Riders,Punjab Kings,Eden Gardens,112,7,16.3,44,38,30,140
+2023-05-04,Punjab Kings,Rajasthan Royals,M. Chinnaswamy Stadium,114,2,16.1,67,33,42,162
+2023-04-27,Chennai Super Kings,Punjab Kings,Dr. DY Patil Sports Academy,57,1,7.3,24,17,40,179
+2023-05-07,Mumbai Indians,Rajasthan Royals,Arun Jaitley Stadium,57,2,6.9,20,20,53,196
+2023-03-31,Kolkata Knight Riders,Delhi Capitals,Wankhede Stadium,67,0,8.6,40,18,42,187
+2023-05-20,Delhi Capitals,Chennai Super Kings,Narendra Modi Stadium,74,5,11.4,36,19,41,141
+2023-05-21,Delhi Capitals,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,44,0,5.0,20,16,36,188
+2023-05-05,Kolkata Knight Riders,Chennai Super Kings,Punjab Cricket Association Stadium,90,0,10.8,25,38,35,178
+2023-05-07,Mumbai Indians,Chennai Super Kings,Narendra Modi Stadium,82,7,15.2,27,36,22,112
+2023-05-22,Delhi Capitals,Punjab Kings,Sawai Mansingh Stadium,108,7,18.8,48,30,23,114
+2023-05-03,Punjab Kings,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,100,4,15.2,40,40,42,153
+2023-04-10,Sunrisers Hyderabad,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,103,6,17.9,46,37,35,118
+2023-04-17,Rajasthan Royals,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,45,2,6.5,13,18,35,170
+2023-04-02,Mumbai Indians,Delhi Capitals,Dr. DY Patil Sports Academy,53,4,8.4,29,15,35,124
+2023-05-15,Chennai Super Kings,Punjab Kings,Eden Gardens,40,2,5.6,19,13,39,185
+2023-05-03,Sunrisers Hyderabad,Kolkata Knight Riders,M. A. Chidambaram Stadium,60,3,7.9,26,20,35,139
+2023-04-13,Sunrisers Hyderabad,Delhi Capitals,Wankhede Stadium,76,4,12.0,27,28,28,141
+2023-05-08,Delhi Capitals,Chennai Super Kings,Dr. DY Patil Sports Academy,87,0,11.5,43,21,46,177
+2023-04-03,Gujarat Titans,Sunrisers Hyderabad,Sawai Mansingh Stadium,107,1,17.2,46,31,25,130
+2023-05-29,Gujarat Titans,Chennai Super Kings,Arun Jaitley Stadium,67,5,10.4,36,18,38,133
+2023-04-28,Mumbai Indians,Gujarat Titans,Sawai Mansingh Stadium,110,4,14.1,62,32,50,178
+2023-04-08,Royal Challengers Bangalore,Chennai Super Kings,Punjab Cricket Association Stadium,129,5,18.7,66,29,44,142
+2023-04-03,Mumbai Indians,Delhi Capitals,Sawai Mansingh Stadium,46,1,5.7,18,21,36,163
+2023-05-18,Chennai Super Kings,Royal Challengers Bangalore,Sawai Mansingh Stadium,135,4,17.9,71,34,33,155
+2023-05-12,Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,40,1,5.6,15,20,39,162
+2023-05-05,Kolkata Knight Riders,Royal Challengers Bangalore,Punjab Cricket Association Stadium,61,4,9.1,20,26,42,155
+2023-05-11,Rajasthan Royals,Royal Challengers Bangalore,M. Chinnaswamy Stadium,90,6,14.3,38,35,29,121
+2023-04-28,Gujarat Titans,Delhi Capitals,Eden Gardens,42,0,5.9,14,18,42,174
+2023-04-17,Gujarat Titans,Lucknow Super Giants,Eden Gardens,44,2,5.0,17,15,44,160
+2023-04-16,Rajasthan Royals,Sunrisers Hyderabad,Eden Gardens,111,8,19.4,51,35,23,114
+2023-05-07,Kolkata Knight Riders,Punjab Kings,Dr. DY Patil Sports Academy,135,2,14.3,49,64,42,203
+2023-04-15,Mumbai Indians,Delhi Capitals,Narendra Modi Stadium,117,0,13.1,66,32,43,204
+2023-04-16,Chennai Super Kings,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,94,0,9.6,45,25,49,218
+2023-05-27,Chennai Super Kings,Gujarat Titans,Eden Gardens,143,0,15.2,79,41,48,204
+2023-04-17,Rajasthan Royals,Gujarat Titans,M. A. Chidambaram Stadium,110,5,16.4,62,28,36,147
+2023-04-15,Lucknow Super Giants,Rajasthan Royals,Dr. DY Patil Sports Academy,106,2,13.0,53,26,34,163
+2023-05-12,Mumbai Indians,Chennai Super Kings,M. A. Chidambaram Stadium,84,5,13.9,46,26,39,136
+2023-04-02,Punjab Kings,Chennai Super Kings,M. A. Chidambaram Stadium,82,3,11.9,39,31,40,153
+2023-04-26,Royal Challengers Bangalore,Chennai Super Kings,Sawai Mansingh Stadium,92,2,13.4,30,42,37,150
+2023-05-03,Lucknow Super Giants,Delhi Capitals,Eden Gardens,53,1,5.7,26,13,53,222
+2023-04-20,Rajasthan Royals,Delhi Capitals,Eden Gardens,41,1,5.2,17,15,41,189
+2023-05-19,Punjab Kings,Kolkata Knight Riders,Arun Jaitley Stadium,127,0,16.3,51,56,39,162
+2023-05-19,Rajasthan Royals,Punjab Kings,M. Chinnaswamy Stadium,52,1,5.8,27,12,36,207
+2023-04-07,Royal Challengers Bangalore,Lucknow Super Giants,M. Chinnaswamy Stadium,64,3,7.6,29,24,42,173
+2023-04-06,Chennai Super Kings,Royal Challengers Bangalore,M. Chinnaswamy Stadium,129,1,15.3,72,39,39,192
+2023-03-31,Gujarat Titans,Mumbai Indians,M. A. Chidambaram Stadium,86,4,11.9,39,29,32,148
+2023-04-22,Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,71,5,11.5,33,18,26,128
+2023-05-03,Delhi Capitals,Kolkata Knight Riders,Punjab Cricket Association Stadium,68,3,10.0,33,19,28,154
+2023-04-23,Delhi Capitals,Gujarat Titans,Eden Gardens,85,0,9.5,31,31,41,197
+2023-04-02,Rajasthan Royals,Delhi Capitals,M. Chinnaswamy Stadium,104,4,14.5,34,41,44,153
+2023-05-15,Sunrisers Hyderabad,Delhi Capitals,Sawai Mansingh Stadium,91,5,13.9,50,30,42,144
+2023-04-13,Kolkata Knight Riders,Delhi Capitals,Eden Gardens,100,0,12.1,48,31,50,191
+2023-05-04,Mumbai Indians,Chennai Super Kings,Dr. DY Patil Sports Academy,126,3,16.4,48,57,38,167
+2023-05-04,Gujarat Titans,Royal Challengers Bangalore,M. Chinnaswamy Stadium,95,3,14.0,29,42,43,149
+2023-04-04,Rajasthan Royals,Sunrisers Hyderabad,Punjab Cricket Association Stadium,97,4,12.3,33,40,36,171
+2023-04-27,Mumbai Indians,Gujarat Titans,Arun Jaitley Stadium,112,5,16.9,49,42,39,140
+2023-05-28,Punjab Kings,Kolkata Knight Riders,Dr. DY Patil Sports Academy,57,3,6.8,24,18,41,182
+2023-05-03,Gujarat Titans,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,47,1,5.9,17,23,47,184
+2023-05-21,Chennai Super Kings,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,118,2,15.3,60,41,42,167
+2023-04-06,Royal Challengers Bangalore,Chennai Super Kings,Sawai Mansingh Stadium,94,3,12.2,38,44,34,176
+2023-05-05,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,47,0,6.8,16,24,39,155
+2023-05-28,Mumbai Indians,Gujarat Titans,Dr. DY Patil Sports Academy,88,7,14.7,45,25,26,112
+2023-05-16,Kolkata Knight Riders,Gujarat Titans,M. Chinnaswamy Stadium,138,3,18.5,45,64,38,156
+2023-05-11,Royal Challengers Bangalore,Kolkata Knight Riders,Narendra Modi Stadium,65,4,9.5,18,28,40,160
+2023-05-28,Royal Challengers Bangalore,Mumbai Indians,Narendra Modi Stadium,145,4,16.9,62,55,36,174
+2023-05-27,Rajasthan Royals,Lucknow Super Giants,M. Chinnaswamy Stadium,61,0,6.3,31,16,56,273
+2023-04-18,Mumbai Indians,Sunrisers Hyderabad,Sawai Mansingh Stadium,80,3,9.7,41,24,43,180
+2023-05-18,Kolkata Knight Riders,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,98,2,12.9,47,35,38,151
+2023-04-14,Gujarat Titans,Rajasthan Royals,Sawai Mansingh Stadium,82,5,13.1,44,29,32,134
+2023-05-07,Rajasthan Royals,Royal Challengers Bangalore,Narendra Modi Stadium,105,0,11.6,42,31,39,205
+2023-05-18,Punjab Kings,Sunrisers Hyderabad,Sawai Mansingh Stadium,88,6,13.4,28,38,40,150
+2023-05-29,Royal Challengers Bangalore,Chennai Super Kings,Punjab Cricket Association Stadium,73,4,10.2,31,26,41,157
+2023-05-08,Royal Challengers Bangalore,Chennai Super Kings,M. A. Chidambaram Stadium,84,6,12.9,36,26,35,140
+2023-04-09,Lucknow Super Giants,Sunrisers Hyderabad,Narendra Modi Stadium,106,0,12.4,62,30,40,179
+2023-05-22,Gujarat Titans,Punjab Kings,M. Chinnaswamy Stadium,93,0,10.4,44,23,39,209
+2023-05-15,Lucknow Super Giants,Mumbai Indians,Wankhede Stadium,48,1,5.9,17,19,33,160
+2023-05-25,Sunrisers Hyderabad,Royal Challengers Bangalore,Sawai Mansingh Stadium,66,2,7.4,20,29,46,219
+2023-04-10,Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,40,3,6.3,21,10,37,133
+2023-05-30,Gujarat Titans,Mumbai Indians,M. A. Chidambaram Stadium,56,2,6.7,32,16,35,161
+2023-04-05,Mumbai Indians,Punjab Kings,Arun Jaitley Stadium,97,7,18.7,29,42,21,103
+2023-04-30,Delhi Capitals,Chennai Super Kings,Sawai Mansingh Stadium,97,2,13.3,47,26,31,154
+2023-05-06,Kolkata Knight Riders,Rajasthan Royals,Narendra Modi Stadium,49,2,6.9,23,12,30,159
+2023-04-30,Kolkata Knight Riders,Delhi Capitals,Sawai Mansingh Stadium,44,0,6.2,20,11,40,164
+2023-05-27,Delhi Capitals,Kolkata Knight Riders,Narendra Modi Stadium,85,4,11.3,44,21,38,178
+2023-04-27,Mumbai Indians,Rajasthan Royals,Punjab Cricket Association Stadium,81,1,7.8,48,22,54,251
+2023-04-14,Rajasthan Royals,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,88,8,18.3,37,32,22,95
+2023-04-22,Chennai Super Kings,Punjab Kings,Rajiv Gandhi International Cricket Stadium,57,1,7.3,27,12,48,173
+2023-04-19,Mumbai Indians,Chennai Super Kings,Arun Jaitley Stadium,61,0,6.4,25,23,52,239
+2023-05-15,Sunrisers Hyderabad,Rajasthan Royals,Wankhede Stadium,99,2,15.0,42,40,30,151
+2023-04-05,Royal Challengers Bangalore,Mumbai Indians,M. A. Chidambaram Stadium,105,2,14.7,51,38,44,149
+2023-05-21,Mumbai Indians,Chennai Super Kings,Narendra Modi Stadium,65,1,6.6,28,28,59,242
+2023-05-26,Lucknow Super Giants,Punjab Kings,Wankhede Stadium,114,0,11.4,59,37,61,254
+2023-05-15,Lucknow Super Giants,Punjab Kings,Wankhede Stadium,148,1,18.2,67,44,36,166
+2023-05-27,Lucknow Super Giants,Chennai Super Kings,Wankhede Stadium,92,1,9.0,39,32,58,233
+2023-05-10,Lucknow Super Giants,Chennai Super Kings,Arun Jaitley Stadium,132,5,19.4,54,42,33,137
+2023-04-21,Royal Challengers Bangalore,Mumbai Indians,Narendra Modi Stadium,88,0,10.6,41,30,46,210
+2023-05-22,Gujarat Titans,Mumbai Indians,M. A. Chidambaram Stadium,71,5,12.9,40,20,36,119
+2023-05-26,Kolkata Knight Riders,Lucknow Super Giants,Dr. DY Patil Sports Academy,132,4,17.3,47,54,30,157
+2023-04-10,Punjab Kings,Lucknow Super Giants,Wankhede Stadium,69,2,8.2,26,24,39,165
+2023-05-04,Delhi Capitals,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,51,0,5.9,20,23,39,159
+2023-05-20,Mumbai Indians,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,130,0,17.2,62,48,47,160
+2023-05-27,Chennai Super Kings,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,96,1,10.7,45,22,43,211
+2023-05-26,Lucknow Super Giants,Gujarat Titans,Sawai Mansingh Stadium,77,4,11.5,36,26,33,132
+2023-04-15,Rajasthan Royals,Royal Challengers Bangalore,Wankhede Stadium,137,2,17.8,48,52,49,164
+2023-05-28,Sunrisers Hyderabad,Chennai Super Kings,M. A. Chidambaram Stadium,113,2,16.6,36,43,39,149
+2023-05-12,Royal Challengers Bangalore,Chennai Super Kings,Narendra Modi Stadium,121,8,18.2,65,40,38,136
+2023-05-02,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,72,4,10.4,36,27,36,163
+2023-04-24,Gujarat Titans,Lucknow Super Giants,Wankhede Stadium,114,5,15.3,59,37,45,166
+2023-04-09,Gujarat Titans,Sunrisers Hyderabad,Eden Gardens,112,4,16.7,58,39,43,143
+2023-03-31,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,66,2,8.1,26,30,46,169
+2023-05-01,Delhi Capitals,Kolkata Knight Riders,Eden Gardens,104,8,18.4,63,29,30,116
+2023-05-17,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,131,0,14.2,62,32,40,198
+2023-05-14,Chennai Super Kings,Kolkata Knight Riders,Narendra Modi Stadium,154,0,15.4,64,58,62,219
+2023-05-22,Mumbai Indians,Punjab Kings,Dr. DY Patil Sports Academy,59,3,8.3,22,29,38,137
+2023-04-10,Lucknow Super Giants,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,112,1,14.9,60,31,33,156
+2023-05-20,Mumbai Indians,Delhi Capitals,Arun Jaitley Stadium,101,8,17.2,35,43,32,119
+2023-05-01,Mumbai Indians,Gujarat Titans,Wankhede Stadium,93,4,10.3,50,22,45,195
+2023-04-14,Rajasthan Royals,Royal Challengers Bangalore,M. A. Chidambaram Stadium,69,6,13.3,25,26,30,110
+2023-04-27,Rajasthan Royals,Kolkata Knight Riders,M. Chinnaswamy Stadium,126,1,13.8,47,49,50,202
+2023-04-24,Royal Challengers Bangalore,Rajasthan Royals,M. A. Chidambaram Stadium,49,1,6.3,27,13,46,194
+2023-05-13,Royal Challengers Bangalore,Chennai Super Kings,Sawai Mansingh Stadium,152,0,17.3,93,42,48,194
+2023-04-15,Delhi Capitals,Chennai Super Kings,Dr. DY Patil Sports Academy,81,3,13.3,29,32,26,141
+2023-04-11,Punjab Kings,Mumbai Indians,Narendra Modi Stadium,106,1,12.7,38,55,48,189
+2023-05-12,Gujarat Titans,Sunrisers Hyderabad,Rajiv Gandhi International Cricket Stadium,39,2,5.4,17,16,39,185
+2023-04-25,Lucknow Super Giants,Delhi Capitals,Narendra Modi Stadium,130,5,18.7,73,31,32,141
+2023-04-24,Chennai Super Kings,Rajasthan Royals,Arun Jaitley Stadium,113,2,18.1,49,38,39,135
+2023-05-28,Delhi Capitals,Gujarat Titans,M. A. Chidambaram Stadium,132,2,16.8,68,32,42,171
+2023-05-24,Kolkata Knight Riders,Mumbai Indians,Punjab Cricket Association Stadium,104,4,17.6,61,26,27,121
+2023-05-12,Delhi Capitals,Gujarat Titans,Dr. DY Patil Sports Academy,73,1,7.8,27,28,45,191
+2023-04-14,Sunrisers Hyderabad,Kolkata Knight Riders,M. A. Chidambaram Stadium,131,0,18.9,60,50,37,143
+2023-04-05,Punjab Kings,Gujarat Titans,Punjab Cricket Association Stadium,44,2,6.3,22,15,41,163
+2023-04-29,Delhi Capitals,Lucknow Super Giants,Punjab Cricket Association Stadium,44,1,5.7,26,12,44,184
+2023-05-17,Royal Challengers Bangalore,Kolkata Knight Riders,Punjab Cricket Association Stadium,97,1,11.7,33,40,43,200
+2023-04-02,Punjab Kings,Royal Challengers Bangalore,Punjab Cricket Association Stadium,144,1,18.5,61,48,50,163
+2023-05-13,Royal Challengers Bangalore,Lucknow Super Giants,M. A. Chidambaram Stadium,76,2,9.5,29,26,44,182
+2023-05-19,Kolkata Knight Riders,Rajasthan Royals,Sawai Mansingh Stadium,126,1,16.7,38,50,37,159
+2023-04-25,Royal Challengers Bangalore,Mumbai Indians,Dr. DY Patil Sports Academy,92,7,14.4,53,24,31,128
+2023-04-15,Royal Challengers Bangalore,Lucknow Super Giants,Eden Gardens,82,7,14.3,41,30,25,115
+2023-05-23,Kolkata Knight Riders,Punjab Kings,Arun Jaitley Stadium,47,3,6.9,22,19,29,125
+2023-04-11,Rajasthan Royals,Sunrisers Hyderabad,M. A. Chidambaram Stadium,119,2,16.1,34,50,32,155
+2023-05-22,Gujarat Titans,Kolkata Knight Riders,Sawai Mansingh Stadium,127,2,14.8,64,36,48,198
+2023-04-16,Rajasthan Royals,Sunrisers Hyderabad,Arun Jaitley Stadium,57,2,9.7,23,27,34,140
+2023-05-02,Mumbai Indians,Chennai Super Kings,Dr. DY Patil Sports Academy,80,1,9.2,39,29,50,217
+2023-04-11,Punjab Kings,Rajasthan Royals,Wankhede Stadium,86,4,10.5,27,38,41,183
+2023-05-25,Kolkata Knight Riders,Chennai Super Kings,M. A. Chidambaram Stadium,96,2,12.7,46,25,30,158
+2023-04-19,Chennai Super Kings,Gujarat Titans,Narendra Modi Stadium,55,0,7.2,17,25,45,190
+2023-04-30,Punjab Kings,Rajasthan Royals,M. A. Chidambaram Stadium,72,2,9.6,31,23,45,176
+2023-04-27,Delhi Capitals,Chennai Super Kings,M. A. Chidambaram Stadium,73,5,13.2,34,16,23,112
+2023-04-20,Sunrisers Hyderabad,Gujarat Titans,Punjab Cricket Association Stadium,73,1,10.2,25,37,31,160
+2023-05-25,Sunrisers Hyderabad,Chennai Super Kings,Eden Gardens,99,1,15.6,34,38,37,148
+2023-05-06,Sunrisers Hyderabad,Rajasthan Royals,Wankhede Stadium,85,4,13.2,44,22,29,137
+2023-04-28,Rajasthan Royals,Mumbai Indians,Punjab Cricket Association Stadium,125,9,18.9,55,43,32,134
+2023-05-13,Lucknow Super Giants,Delhi Capitals,Arun Jaitley Stadium,54,0,6.7,16,24,42,198
+2023-04-14,Chennai Super Kings,Royal Challengers Bangalore,Wankhede Stadium,58,0,7.3,28,15,37,171
+2023-04-18,Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,47,1,5.0,20,15,47,190
+2023-04-28,Delhi Capitals,Chennai Super Kings,Rajiv Gandhi International Cricket Stadium,106,6,16.8,45,49,30,124
+2023-04-14,Sunrisers Hyderabad,Kolkata Knight Riders,Wankhede Stadium,117,3,13.5,66,29,44,192
+2023-04-08,Lucknow Super Giants,Rajasthan Royals,Arun Jaitley Stadium,83,0,9.7,31,38,41,164
+2023-04-13,Rajasthan Royals,Delhi Capitals,Arun Jaitley Stadium,129,5,19.3,60,45,36,135
+2023-04-26,Rajasthan Royals,Kolkata Knight Riders,M. Chinnaswamy Stadium,164,4,19.1,58,66,49,176
+2023-04-07,Rajasthan Royals,Kolkata Knight Riders,Dr. DY Patil Sports Academy,58,2,8.5,28,14,42,155
+2023-05-12,Gujarat Titans,Royal Challengers Bangalore,Eden Gardens,51,4,8.3,22,19,39,145
+2023-05-19,Gujarat Titans,Delhi Capitals,M. A. Chidambaram Stadium,86,0,8.6,39,34,41,213
+2023-04-30,Punjab Kings,Delhi Capitals,Sawai Mansingh Stadium,86,2,10.0,36,30,47,197
+2023-04-02,Delhi Capitals,Lucknow Super Giants,Dr. DY Patil Sports Academy,73,2,11.3,28,32,27,140
+2023-04-06,Royal Challengers Bangalore,Chennai Super Kings,Arun Jaitley Stadium,85,7,15.6,40,25,27,109
+2023-04-30,Mumbai Indians,Gujarat Titans,Rajiv Gandhi International Cricket Stadium,181,1,19.1,76,83,46,190
+2023-04-24,Kolkata Knight Riders,Chennai Super Kings,M. A. Chidambaram Stadium,49,4,8.2,24,12,27,124
+2023-04-02,Kolkata Knight Riders,Lucknow Super Giants,M. Chinnaswamy Stadium,89,1,11.6,31,32,43,189
+2023-05-13,Rajasthan Royals,Gujarat Titans,Wankhede Stadium,43,2,5.5,20,10,39,161
+2023-05-11,Chennai Super Kings,Sunrisers Hyderabad,Punjab Cricket Association Stadium,134,1,17.9,43,50,36,154
+2023-04-23,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,111,4,16.8,43,43,40,139
+2023-05-03,Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,60,1,7.0,19,23,35,158
+2023-04-28,Chennai Super Kings,Lucknow Super Giants,Rajiv Gandhi International Cricket Stadium,106,5,16.4,40,51,33,140
+2023-05-27,Mumbai Indians,Royal Challengers Bangalore,M. Chinnaswamy Stadium,110,3,14.3,37,42,42,172
+2023-04-01,Kolkata Knight Riders,Delhi Capitals,Eden Gardens,37,2,5.7,19,14,37,159
+2023-05-15,Royal Challengers Bangalore,Lucknow Super Giants,Eden Gardens,67,2,9.2,38,18,33,158
+2023-04-06,Sunrisers Hyderabad,Lucknow Super Giants,Narendra Modi Stadium,91,6,17.0,49,25,33,110
+2023-05-04,Sunrisers Hyderabad,Royal Challengers Bangalore,Punjab Cricket Association Stadium,94,5,14.1,34,34,27,140
+2023-04-25,Gujarat Titans,Delhi Capitals,M. Chinnaswamy Stadium,165,2,18.3,72,63,53,183
+2023-04-05,Mumbai Indians,Chennai Super Kings,Sawai Mansingh Stadium,73,4,11.6,37,28,38,143
+2023-05-27,Chennai Super Kings,Sunrisers Hyderabad,Wankhede Stadium,97,7,17.5,37,42,24,112
+2023-05-14,Punjab Kings,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,78,0,9.6,31,25,40,159
+2023-04-10,Mumbai Indians,Punjab Kings,M. Chinnaswamy Stadium,64,0,7.2,31,17,48,217
+2023-04-12,Mumbai Indians,Gujarat Titans,Arun Jaitley Stadium,55,2,7.9,19,28,37,163
+2023-04-21,Mumbai Indians,Delhi Capitals,Punjab Cricket Association Stadium,38,0,5.3,20,11,38,169
+2023-05-20,Sunrisers Hyderabad,Lucknow Super Giants,M. Chinnaswamy Stadium,112,2,14.0,56,26,44,169
+2023-05-28,Sunrisers Hyderabad,Lucknow Super Giants,Narendra Modi Stadium,139,2,16.5,41,56,42,174
+2023-04-01,Punjab Kings,Royal Challengers Bangalore,Eden Gardens,113,0,13.6,63,37,37,173
+2023-05-14,Lucknow Super Giants,Rajasthan Royals,Arun Jaitley Stadium,85,3,11.3,31,38,42,169
+2023-04-27,Rajasthan Royals,Chennai Super Kings,Narendra Modi Stadium,127,0,14.6,42,49,37,183
+2023-04-17,Lucknow Super Giants,Gujarat Titans,Arun Jaitley Stadium,96,2,15.2,31,39,40,137
+2023-05-02,Chennai Super Kings,Punjab Kings,Sawai Mansingh Stadium,53,3,7.2,23,24,29,142
+2023-05-05,Gujarat Titans,Mumbai Indians,Rajiv Gandhi International Cricket Stadium,80,2,9.5,27,39,42,180
+2023-04-28,Gujarat Titans,Sunrisers Hyderabad,Arun Jaitley Stadium,94,8,17.1,38,35,35,113
+2023-05-08,Rajasthan Royals,Royal Challengers Bangalore,Arun Jaitley Stadium,57,1,9.3,32,18,27,118
+2023-04-02,Delhi Capitals,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,68,1,8.7,39,18,49,199
+2023-04-05,Sunrisers Hyderabad,Lucknow Super Giants,Eden Gardens,102,6,17.0,48,35,32,125
+2023-05-17,Gujarat Titans,Mumbai Indians,Wankhede Stadium,55,3,8.2,20,25,26,133
+2023-05-04,Punjab Kings,Kolkata Knight Riders,Sawai Mansingh Stadium,82,0,10.7,28,34,35,167
+2023-05-29,Punjab Kings,Gujarat Titans,Eden Gardens,107,9,18.4,38,53,30,118
+2023-05-18,Rajasthan Royals,Kolkata Knight Riders,Arun Jaitley Stadium,64,1,7.6,33,22,52,195
+2023-05-17,Chennai Super Kings,Gujarat Titans,Narendra Modi Stadium,76,6,14.2,32,24,34,112
+2023-05-12,Gujarat Titans,Royal Challengers Bangalore,Arun Jaitley Stadium,92,9,18.1,49,30,23,102
+2023-05-24,Chennai Super Kings,Gujarat Titans,Punjab Cricket Association Stadium,87,0,9.7,29,39,36,203
+2023-04-10,Mumbai Indians,Gujarat Titans,Sawai Mansingh Stadium,43,2,6.5,18,13,42,158
+2023-04-22,Lucknow Super Giants,Rajasthan Royals,Dr. DY Patil Sports Academy,118,3,17.4,44,53,38,147
+2023-04-25,Rajasthan Royals,Punjab Kings,Rajiv Gandhi International Cricket Stadium,70,6,12.7,24,32,26,109
+2023-05-27,Royal Challengers Bangalore,Punjab Kings,Narendra Modi Stadium,69,2,8.2,25,22,40,158
+2023-04-17,Sunrisers Hyderabad,Royal Challengers Bangalore,Dr. DY Patil Sports Academy,80,4,11.0,39,29,36,138
+2023-04-29,Delhi Capitals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,92,5,13.1,30,41,37,165
+2023-04-07,Rajasthan Royals,Sunrisers Hyderabad,Arun Jaitley Stadium,64,3,9.2,29,18,37,158
+2023-05-07,Gujarat Titans,Mumbai Indians,M. Chinnaswamy Stadium,83,0,9.2,44,24,55,208
+2023-04-02,Royal Challengers Bangalore,Rajasthan Royals,Eden Gardens,153,0,18.9,52,73,49,166
+2023-05-03,Chennai Super Kings,Kolkata Knight Riders,Wankhede Stadium,92,4,13.1,31,45,36,154
+2023-05-08,Sunrisers Hyderabad,Delhi Capitals,M. A. Chidambaram Stadium,95,3,13.0,47,21,44,158
+2023-05-13,Punjab Kings,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,48,2,6.5,21,21,35,148
+2023-04-28,Gujarat Titans,Delhi Capitals,Rajiv Gandhi International Cricket Stadium,94,0,11.5,32,47,35,179
+2023-04-02,Mumbai Indians,Chennai Super Kings,Arun Jaitley Stadium,59,5,11.2,25,26,34,110
+2023-04-30,Delhi Capitals,Punjab Kings,Rajiv Gandhi International Cricket Stadium,98,3,13.1,30,43,32,158
+2023-05-09,Lucknow Super Giants,Rajasthan Royals,Punjab Cricket Association Stadium,49,3,7.0,18,24,28,143
+2023-04-18,Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,99,3,12.2,47,27,40,159
+2023-05-24,Kolkata Knight Riders,Gujarat Titans,Arun Jaitley Stadium,80,3,9.5,37,23,38,171
+2023-04-03,Mumbai Indians,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,70,1,6.9,30,19,52,263
+2023-04-29,Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi International Cricket Stadium,102,8,16.2,47,36,36,127
+2023-05-12,Delhi Capitals,Royal Challengers Bangalore,Narendra Modi Stadium,42,2,7.0,18,15,33,138
+2023-05-03,Mumbai Indians,Punjab Kings,M. Chinnaswamy Stadium,110,2,13.7,54,32,45,172
+2023-05-03,Delhi Capitals,Chennai Super Kings,Punjab Cricket Association Stadium,57,2,6.7,21,23,52,183
+2023-05-02,Gujarat Titans,Mumbai Indians,Arun Jaitley Stadium,61,1,7.8,20,23,48,179
+2023-05-29,Mumbai Indians,Gujarat Titans,Punjab Cricket Association Stadium,112,1,12.3,39,47,49,204
+2023-04-11,Punjab Kings,Chennai Super Kings,Narendra Modi Stadium,58,3,7.6,23,26,37,156
+2023-04-03,Chennai Super Kings,Gujarat Titans,Dr. DY Patil Sports Academy,109,5,17.5,54,28,32,130
+2023-04-10,Lucknow Super Giants,Rajasthan Royals,Dr. DY Patil Sports Academy,118,4,18.5,49,35,29,129
+2023-05-27,Punjab Kings,Mumbai Indians,Dr. DY Patil Sports Academy,106,4,13.5,42,33,42,174
+2023-04-14,Punjab Kings,Royal Challengers Bangalore,M. A. Chidambaram Stadium,90,6,15.2,40,27,29,123
+2023-05-09,Lucknow Super Giants,Sunrisers Hyderabad,Dr. DY Patil Sports Academy,89,1,10.4,51,25,41,187
+2023-05-30,Gujarat Titans,Chennai Super Kings,Dr. DY Patil Sports Academy,42,0,5.7,18,14,42,178
+2023-04-08,Delhi Capitals,Gujarat Titans,Sawai Mansingh Stadium,60,3,7.7,33,19,41,174
+2023-04-06,Delhi Capitals,Kolkata Knight Riders,Rajiv Gandhi International Cricket Stadium,69,6,12.2,26,35,25,106
+2023-04-21,Rajasthan Royals,Gujarat Titans,M. A. Chidambaram Stadium,124,3,16.2,45,61,48,163
+2023-05-17,Lucknow Super Giants,Royal Challengers Bangalore,M. A. Chidambaram Stadium,60,4,11.5,25,23,26,106
+2023-05-10,Punjab Kings,Gujarat Titans,Sawai Mansingh Stadium,99,7,15.9,42,43,27,125
+2023-05-06,Kolkata Knight Riders,Chennai Super Kings,Wankhede Stadium,58,4,8.6,20,25,41,139
+2023-05-06,Mumbai Indians,Gujarat Titans,Narendra Modi Stadium,162,1,17.0,57,57,59,205
+2023-04-04,Punjab Kings,Gujarat Titans,Punjab Cricket Association Stadium,52,3,8.0,19,19,38,138
+2023-05-21,Lucknow Super Giants,Mumbai Indians,Wankhede Stadium,117,5,14.1,53,47,40,169
+2023-05-11,Punjab Kings,Rajasthan Royals,Rajiv Gandhi International Cricket Stadium,62,3,8.5,23,30,36,148
+2023-05-12,Royal Challengers Bangalore,Gujarat Titans,Arun Jaitley Stadium,100,1,11.8,42,38,50,194
+2023-04-18,Royal Challengers Bangalore,Gujarat Titans,M. A. Chidambaram Stadium,78,2,10.5,27,37,46,193
+2023-04-20,Kolkata Knight Riders,Punjab Kings,Sawai Mansingh Stadium,111,4,17.6,68,30,25,128
+2023-04-13,Mumbai Indians,Delhi Capitals,Eden Gardens,106,1,12.1,36,48,49,209
+2023-05-07,Kolkata Knight Riders,Punjab Kings,Arun Jaitley Stadium,109,9,18.4,44,40,34,122
+2023-05-14,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,90,6,12.3,45,26,45,164
+2023-04-15,Punjab Kings,Gujarat Titans,Punjab Cricket Association Stadium,44,3,7.0,19,13,32,137
+2023-04-06,Rajasthan Royals,Delhi Capitals,Wankhede Stadium,72,1,7.9,34,28,41,187
+2023-05-02,Kolkata Knight Riders,Lucknow Super Giants,Arun Jaitley Stadium,80,3,10.9,35,22,40,172
+2023-04-12,Gujarat Titans,Rajasthan Royals,Wankhede Stadium,61,1,7.7,36,16,50,192
+2023-04-14,Chennai Super Kings,Mumbai Indians,Narendra Modi Stadium,84,1,11.5,24,34,41,179
+2023-05-06,Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,102,1,10.4,39,33,54,223
+2023-05-18,Delhi Capitals,Gujarat Titans,Punjab Cricket Association Stadium,42,2,5.4,24,10,42,171
+2023-04-05,Sunrisers Hyderabad,Delhi Capitals,Eden Gardens,63,0,7.7,24,27,41,159
+2023-04-12,Delhi Capitals,Rajasthan Royals,Sawai Mansingh Stadium,61,5,11.3,24,18,27,110
+2023-05-19,Mumbai Indians,Lucknow Super Giants,Dr. DY Patil Sports Academy,84,1,9.9,29,41,41,164
+2023-04-21,Sunrisers Hyderabad,Lucknow Super Giants,Dr. DY Patil Sports Academy,65,0,9.5,31,17,44,153
+2023-04-05,Kolkata Knight Riders,Mumbai Indians,Punjab Cricket Association Stadium,57,0,7.5,18,25,40,195
+2023-04-11,Chennai Super Kings,Mumbai Indians,M. Chinnaswamy Stadium,90,2,9.6,35,45,41,203
+2023-03-31,Sunrisers Hyderabad,Delhi Capitals,M. Chinnaswamy Stadium,81,0,8.6,29,30,57,220
+2023-04-05,Rajasthan Royals,Mumbai Indians,Eden Gardens,84,1,10.0,41,18,52,190
